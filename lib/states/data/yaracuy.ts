@@ -179,7 +179,7 @@ export const yaracuy: StateGuideData = {
   ],
 
   seo: {
-    title: "Yaracuy: guía de viaje de San Felipe, Sorte y el Parque Yurubí",
+    title: "Yaracuy: guía de San Felipe, Sorte y Yurubí",
     description: "Guía editorial de Yaracuy: San Felipe, la montaña de Sorte y el culto a María Lionza, el Parque Nacional Yurubí, Nirgua y el valle agrícola del río Yaracuy.",
   },
 

@@ -206,7 +206,7 @@ export const falcon: StateGuideData = {
   ],
 
   seo: {
-    title: "Falcón: guía de viaje de Coro, los Médanos, Paraguaná y Morrocoy",
+    title: "Falcón: guía de Coro, los Médanos y Morrocoy",
     description: "Guía editorial de Falcón: Coro y La Vela, Patrimonio de la Humanidad, los Médanos de Coro, Paraguaná, los cayos de Morrocoy y la Sierra de San Luis.",
   },
 

@@ -199,7 +199,7 @@ export const sucre: StateGuideData = {
   ],
 
   seo: {
-    title: "Sucre: guía de viaje de Cumaná, Mochima, Araya y el cacao de Paria",
+    title: "Sucre: guía de Cumaná, Mochima, Araya y Paria",
     description: "Guía editorial de Sucre: Cumaná histórica, el Parque Nacional Mochima, las salinas de Araya, Playa Medina, el cacao de Paria y el carnaval de Carúpano.",
   },
 

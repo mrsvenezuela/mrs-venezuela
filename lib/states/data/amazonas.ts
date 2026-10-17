@@ -196,7 +196,7 @@ export const amazonas: StateGuideData = {
   ],
 
   seo: {
-    title: "Amazonas: guía de viaje del Orinoco, el Autana y la selva del sur",
+    title: "Amazonas: guía del Orinoco, el Autana y la selva",
     description: "Guía editorial de Amazonas: Puerto Ayacucho, raudales de Atures, Cerro Autana, el Orinoco y sus pueblos indígenas. Naturaleza, rutas fluviales y consejos.",
   },
 

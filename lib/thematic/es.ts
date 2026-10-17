@@ -30,7 +30,7 @@ export const thematicEs: ThematicContent = {
     meta: {
       title: "Caribe y playa en Venezuela | Mrs Venezuela",
       description:
-        "La costa y las islas de Venezuela: Los Roques, Margarita, Morrocoy, Mochima, Choroní, Paria, La Tortuga e Isla de Plata, y cómo cambia el litoral de occidente a oriente.",
+        "La costa y las islas de Venezuela: Los Roques, Margarita, Morrocoy, Mochima, Choroní, Paria y La Tortuga, y cómo cambia el litoral de oeste a este.",
     },
     indexLabel: "En esta guía",
     backLabel: "Volver al inicio",

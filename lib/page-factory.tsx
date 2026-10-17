@@ -30,7 +30,7 @@ export async function generateMetadataFor(kind: ContentKind, params: Params): Pr
   const heroImage = (kind === "estado" && guide ? guide.hero?.src : item.image) || "/images/venezuela-political-map.jpg";
   const image = heroImage.startsWith("/") ? absoluteUrl(heroImage) : heroImage;
   const title = guide?.seo.title ?? item.name;
-  const description = guide?.seo.description ?? item.description;
+  const description = guide?.seo.description ?? item.seoDescription ?? item.description;
   return {
     title,
     description,

@@ -199,7 +199,7 @@ export const nuevaEsparta: StateGuideData = {
   ],
 
   seo: {
-    title: "Nueva Esparta: guía de viaje de Margarita, Coche y Cubagua",
+    title: "Nueva Esparta: guía de Margarita, Coche y Cubagua",
     description: "Guía editorial de Nueva Esparta: playas de Margarita, El Yaque, Coche, castillos, la Virgen del Valle y la cocina de cazón. Historia, naturaleza y consejos.",
   },
 

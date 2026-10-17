@@ -187,7 +187,7 @@ export const laGuaira: StateGuideData = {
   ],
 
   seo: {
-    title: "La Guaira: guía de viaje de Macuto, Galipán y el litoral central",
+    title: "La Guaira: guía de Macuto, Galipán y el litoral",
     description: "Guía editorial de La Guaira: el puerto histórico, Macuto y los balnearios, Galipán y el Waraira Repano, el aeropuerto de Maiquetía y la costa del este.",
   },
 

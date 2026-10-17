@@ -179,7 +179,7 @@ export const portuguesa: StateGuideData = {
   ],
 
   seo: {
-    title: "Portuguesa: guía de viaje de Guanare, Coromoto y los llanos",
+    title: "Portuguesa: guía de Guanare, Coromoto y el llano",
     description: "Guía editorial de Portuguesa: Guanare y el santuario de Coromoto, Acarigua-Araure, el piedemonte cafetalero, el joropo y los arrozales del llano venezolano.",
   },
 

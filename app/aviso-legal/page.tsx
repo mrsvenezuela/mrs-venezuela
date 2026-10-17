@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: { absolute: 'Aviso legal | Mrs Venezuela' },
-  description: 'Titular y datos de contacto de Mrs Venezuela.',
+  description: 'Aviso legal de Mrs Venezuela: titular del sitio, dirección postal y correo de contacto para consultas y correcciones.',
   alternates: { canonical: '/aviso-legal' },
   robots: { index: false, follow: true, googleBot: { index: false, follow: true } },
 };

@@ -30,6 +30,8 @@ export type DiscoverItem = {
   name: string;
   kicker: string;
   description: string;
+  /** Descripción para buscadores cuando `description` es demasiado corta. */
+  seoDescription?: string;
   /** "" = sin foto verificada: quien pinte la tarjeta muestra un marcador neutro. */
   image: string;
   /** Texto alternativo propio cuando la foto no se describe con el nombre. */
@@ -425,6 +427,7 @@ export const searchIndex: DiscoverItem[] = [
     name: "Orquídea",
     kicker: "Flora",
     description: "Flor nacional y emblema de la diversidad botánica venezolana.",
+    seoDescription: "La orquídea Cattleya mossiae, conocida como flor de mayo, es la flor nacional de Venezuela y un emblema de la diversidad botánica del país.",
     image: venezuelaImages.orchid,
   },
   {
@@ -433,6 +436,7 @@ export const searchIndex: DiscoverItem[] = [
     name: "Arepa",
     kicker: "Gastronomía",
     description: "Ícono culinario cotidiano, versátil y profundamente venezolano.",
+    seoDescription: "La arepa, ícono culinario de Venezuela: un pan de maíz cotidiano y versátil que se rellena de mil maneras y acompaña la mesa de todo el país.",
     image: venezuelaImages.arepa,
   },
   {

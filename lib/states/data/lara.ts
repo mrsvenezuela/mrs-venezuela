@@ -192,7 +192,7 @@ export const lara: StateGuideData = {
   ],
 
   seo: {
-    title: "Lara: guía de viaje de Barquisimeto, Carora y la Divina Pastora",
+    title: "Lara: Barquisimeto, Carora y la Divina Pastora",
     description: "Guía editorial de Lara: Barquisimeto y sus crepúsculos, la Divina Pastora, el tamunangue, Carora, la artesanía de Quíbor y Tintorero y sus parques nacionales.",
   },
 

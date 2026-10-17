@@ -198,7 +198,7 @@ export const bolivar: StateGuideData = {
   ],
 
   seo: {
-    title: "Estado Bolívar: guía de ciudades, cultura, ríos y naturaleza",
+    title: "Bolívar: guía de ciudades, ríos y naturaleza",
     description: "Guía editorial del estado Bolívar: Ciudad Bolívar, Ciudad Guayana, Orinoco, Caroní, El Callao, cultura guayanesa, Canaima y Gran Sabana.",
   },
 
