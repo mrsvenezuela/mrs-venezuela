@@ -13,6 +13,7 @@ const seoDescriptions: Record<string, string> = {
   "choroni": "Choroní, en la costa de Aragua: el pueblo, Puerto Colombia y Playa Grande al otro lado de la montaña. Cómo llegar, cómo moverte y qué presupuestar.",
   "cuyagua": "Cuyagua, en la costa de Aragua: playa abierta de olas para el surf, montaña y un pueblo con ritmo propio. Cómo llegar, cómo moverte y qué tener en cuenta.",
   "playa-medina": "Playa Medina, en la península de Paria (Sucre): una ensenada de cocoteros al este de Río Caribe. Cómo llegar, cómo moverte y qué presupuestar.",
+  "isla-de-coche": "Isla de Coche, en Nueva Esparta: playas abiertas y ambiente sereno junto a Margarita. Cómo llegar por mar y qué confirmar antes de pagar el traslado.",
   "isla-la-tortuga": "Isla La Tortuga, en las Dependencias Federales: arena, sal y mar abierto en el Caribe venezolano. Cómo organizar la travesía, la estancia y el regreso.",
 };
 

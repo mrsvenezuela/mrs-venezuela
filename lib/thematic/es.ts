@@ -940,7 +940,7 @@ export const thematicEs: ThematicContent = {
     meta: {
       title: "Sabores de Venezuela | Mrs Venezuela",
       description:
-        "La cocina venezolana en fotografías: arepa, pabellón, cachapa y hallaca, los sabores de cada región, el cacao, los dulces, los ingredientes y la mesa de diciembre.",
+        "La cocina venezolana en fotografías: arepa, pabellón, cachapa y hallaca, los sabores de cada región, el cacao, los dulces y la mesa de diciembre.",
     },
     indexLabel: "En esta guía",
     backLabel: "Volver al inicio",
