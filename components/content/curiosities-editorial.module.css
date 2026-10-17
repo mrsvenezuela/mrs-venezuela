@@ -1,0 +1,57 @@
+.page { background: #faf8f3; color: #253a30; }
+.header, .content, .credits { max-width: 1160px; }
+.header { padding-top: 128px; padding-bottom: 42px; }
+.intro { margin-top: 26px; }
+.eyebrow { font-size: 12px; font-weight: 600; letter-spacing: .16em; text-transform: uppercase; color: #946148; }
+.title { margin: 12px 0 18px; max-width: 24ch; font: 500 clamp(2.25rem, 4.5vw, 3.6rem)/1.12 var(--font-display), Georgia, serif; letter-spacing: -.035em; text-wrap: balance; }
+.description { max-width: 660px; font-size: 16px; line-height: 1.7; color: #59645b; }
+.content { padding-bottom: 44px; }
+.grid { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 56px 32px; }
+.story { position: relative; min-width: 0; scroll-margin-top: 110px; }
+.story > span { position: absolute; top: 0; scroll-margin-top: 110px; }
+.visual { position: relative; overflow: hidden; background: #eeeee4; border-radius: 3px; aspect-ratio: 1.48; }
+.portraits { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; height: 100%; }
+.portraits > div { min-width: 0; }
+.meta { display: flex; gap: 15px; align-items: center; color: #946148; margin: 0 0 13px; font-size: 11px; line-height: 1.5; text-transform: uppercase; letter-spacing: .1em; }
+.number { flex-shrink: 0; font: 400 39px/1 var(--font-display), Georgia, serif; letter-spacing: -.045em; }
+.story h2 { margin: 0 0 16px; font: 500 clamp(1.75rem, 2.6vw, 2.2rem)/1.2 var(--font-display), Georgia, serif; letter-spacing: -.025em; text-wrap: balance; }
+.fact { color: #59645b; font-size: 16px; line-height: 1.8; }
+.caption { color: #59645b; margin-top: 10px; font-size: 12px; line-height: 1.5; }
+.source { display: inline-flex; align-items: center; gap: 4px; min-height: 44px; font-size: 12px; color: #59645b; text-decoration: underline; text-underline-offset: 4px; }
+.source:hover { color: #253a30; }
+.paired { grid-column: span 6; }
+.paired .storyBody { padding-top: 22px; }
+.paired .number { font-size: 32px; }
+.wide, .reverse { grid-column: 1 / -1; display: grid; grid-template-columns: 1.15fr 1fr; gap: 40px; align-items: center; }
+.wide .visual { aspect-ratio: 1.48; }
+.panorama { grid-column: 1 / -1; }
+.panorama .visual { aspect-ratio: 2.7; border-radius: 3px 3px 0 0; }
+.panorama .storyBody { display: grid; grid-template-columns: .95fr 1.1fr; gap: 35px; padding: 28px 32px; background: #eeeee4; align-items: center; }
+.panorama h2 { margin-bottom: 0; }
+.reverse { grid-template-columns: 1fr .85fr; gap: 45px; padding: 34px; background: #eeeee4; }
+.reverse .visual { grid-column: 2; grid-row: 1; aspect-ratio: 1.15; }
+.reverse .storyBody { grid-column: 1; grid-row: 1; }
+.story[data-story="miss"] .visual, .story[data-story="cabrera"] .visual { aspect-ratio: 1.48; }
+.story[data-story="orchestra"] { grid-column: span 7; }
+.story[data-story="herrera"] { grid-column: span 5; }
+.story[data-story="orchestra"] .visual, .story[data-story="herrera"] .visual { height: 310px; aspect-ratio: auto; }
+.story[data-story="casabe"] { grid-template-columns: 1fr 1.05fr; }
+.credits { border-top: 1px solid #dcded4; padding-top: 24px; }
+@media (max-width: 767px) {
+  .header { padding-top: 112px; padding-bottom: 32px; }
+  .intro { margin-top: 18px; }
+  .title { font-size: clamp(2.25rem, 8vw, 3rem); }
+  .grid { grid-template-columns: 1fr; gap: 36px; }
+  .story, .story[data-story="orchestra"], .story[data-story="herrera"] { grid-column: 1; }
+  .wide, .reverse, .story[data-story="casabe"] { display: flex; flex-direction: column; gap: 22px; align-items: stretch; }
+  .reverse { padding: 23px; }
+  .visual, .wide .visual, .story[data-story="miss"] .visual, .story[data-story="cabrera"] .visual { aspect-ratio: 1.48; }
+  .reverse .visual { aspect-ratio: 1.1; }
+  .story[data-story="orchestra"] .visual, .story[data-story="herrera"] .visual { height: auto; aspect-ratio: 1.48; }
+  .paired .storyBody { padding-top: 20px; }
+  .panorama .visual { aspect-ratio: 1.55; }
+  .panorama .storyBody { grid-template-columns: 1fr; padding: 23px; gap: 16px; }
+  .story h2 { font-size: 1.85rem; }
+  .meta { font-size: 11px; }
+  .number { font-size: 34px; }
+}
