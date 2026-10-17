@@ -1,0 +1,130 @@
+{
+  "capybara": {
+    "src": "/images/nature/capybara.jpg",
+    "author": "Fernando Flores from Caracas, Venezuela",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "href": "https://commons.wikimedia.org/wiki/File:Capybara_-_Chig%C3%BCire_(Hydrochoerus_hydrochaeris)_(9722123353).jpg",
+    "description": "Capybara | Chigüire (Hydrochoerus hydrochaeris) in Hato El Cedral, Venezuela"
+  },
+  "bear": {
+    "src": "/images/nature/bear.jpg",
+    "author": "Hans Hillewaert",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "href": "https://commons.wikimedia.org/wiki/File:Tremarctos_ornatus_(portrait).jpg",
+    "description": "Spectacled Bear at Chester Zoo near Chester, UK."
+  },
+  "troupial": {
+    "src": "/images/nature/troupial.jpg",
+    "author": "Paolo Costa Baldi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "href": "https://commons.wikimedia.org/wiki/File:Venezuelan_Troupial_-_Icterus_icterus.jpg",
+    "description": "Venezuelan troupial Icterus icterus at Parque del Este, in Venezuela."
+  },
+  "macaw": {
+    "src": "/images/nature/macaw.jpg",
+    "author": "Fernando Flores",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "href": "https://commons.wikimedia.org/wiki/File:Ara_ararauna_-Parque_del_Este,_Caracas,_Venezuela_-eating-8.jpg",
+    "description": "Blue-and-yellow Macaws (also known as the Blue-and-gold Macaw) in Parque del Este, Caracas, Venezuela."
+  },
+  "flamingo": {
+    "src": "/images/nature/flamingo.jpg",
+    "author": "Fernando Flores",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "href": "https://commons.wikimedia.org/wiki/File:American_Flamingo_Flamenco_Phoenicopterus_Ruber_(67375537).jpeg",
+    "description": "500px provided description: Flamingos at the \"Ci?naga de Los Olivitos\" Flamencos en la \"Ci?naga de Los Olivitos\" [#Venezuela ,#Flamenco ,#Phoenicopterus ruber ,#American Flamingo ,#Zulia ,#Ci?naga de Los Olivitos ,#Tococo]"
+  },
+  "orchid": {
+    "src": "/images/nature/orchid.jpg",
+    "author": "QuazDelaCruz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "href": "https://commons.wikimedia.org/wiki/File:Cattleya_mossiae_tipo.jpg",
+    "description": "Cattleya mossiae tipo N.S. (135 X 160mm) 2 stems 4 flowers Okayama Orchid Festival 2009 in Okayama Dome, Okayama Japan."
+  },
+  "cattleya": {
+    "src": "/images/nature/cattleya.jpg",
+    "author": "Orchi",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "href": "https://commons.wikimedia.org/wiki/File:Cattleya_lueddemanniana_Orchi_04.jpg",
+    "description": "Cattleya lueddemanniana - flowers"
+  },
+  "araguaney": {
+    "src": "/images/nature/araguaney.jpg",
+    "author": "Franciny Fernández \"CHINI\"",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "href": "https://commons.wikimedia.org/wiki/File:Araguaney_hermoso.JPG",
+    "description": "Barinas-Venezuela"
+  },
+  "saman": {
+    "src": "/images/nature/saman-punto-fijo.jpg",
+    "author": "Aramburu Carlos",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "href": "https://commons.wikimedia.org/wiki/File:Sam%C3%A1n_(Samanea_saman)_-_Punto_Fijo,_Venezuela.jpg",
+    "description": "Samán (Samanea saman), Punto Fijo, Falcón, Venezuela."
+  },
+  "ceiba": {
+    "src": "/images/nature/ceiba.jpg",
+    "author": "Veronidae",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "href": "https://commons.wikimedia.org/wiki/File:Ceiba_pentandra_La_Lagunita_2013_001.jpg",
+    "description": "Ceiba pentandra en La Lagunita, municipio El Hatillo, Estado Miranda - Venezuela."
+  },
+  "moriche": {
+    "src": "/images/nature/moriche.jpg",
+    "author": "LBM1948",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "href": "https://commons.wikimedia.org/wiki/File:Gran_Sabana_(2004)_06.jpg",
+    "description": "Pastures, with remains of the original forest in the areas with the greatest slope and/or next to the riverbeds.. Gran Sabana, Bolívar, Venezuela The plant that usually remains is the moriche palm tree [Mauritia flexuosa]"
+  },
+  "ibis": {
+    "src": "/images/commons/corocoro-rojo-manglar-cuare.jpg",
+    "author": "Fernando Flores",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "href": "https://commons.wikimedia.org/wiki/File:Scarlet_Ibis,_Corocoro_Colorado_(Eudocimus_ruber).jpg",
+    "description": "Scarlet ibis, Cuare, Venezuela. Existing project asset."
+  },
+  "turtle": {
+    "src": "/images/nature/turtle.jpg",
+    "author": "PSE / Pedrosanch",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "href": "https://commons.wikimedia.org/wiki/File:Tucacas04012422TortugaCareyEretmochelysImbricata.JPG",
+    "description": "Autor: PSE Tortuga Carey Eretmochelys imbriocota Localización: Venezuela, Estado Falcón, Tucacas, Parque Nacional Morrocoy, Area Especial, Cayo Norte, Zona de Buceo de El Jardín, profundidad 15 m. Enero 2004"
+  },
+  "dolphin": {
+    "src": "/images/nature/dolphin-pink.jpg",
+    "author": "Nortondefeis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "href": "https://commons.wikimedia.org/wiki/File:Boto-cor-de-rosa_(Inia_geoffrensis).jpg",
+    "description": "Boto-cor-de-rosa (Inia geoffrensis)"
+  },
+  "parrotfish": {
+    "src": "/images/nature/parrotfish.jpg",
+    "author": "Adona9 at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "href": "https://commons.wikimedia.org/wiki/File:Stoplight-parrotfish.jpg",
+    "description": "Stoplight parrotfish (Sparisoma viride)"
+  },
+  "coral": {
+    "src": "/images/nature/coral.jpg",
+    "author": "Jstuby",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "href": "https://commons.wikimedia.org/wiki/File:Acropora_palmata_01_Pickles_Reef_20230713.jpg",
+    "description": "Elkhorn coral (Acropora palmata) at Pickles Reef, Florida Keys."
+  }
+}

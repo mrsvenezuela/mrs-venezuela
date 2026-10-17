@@ -1,0 +1,28 @@
+import { t } from './types';
+
+export const guideLabels = {
+  back: t('Caribe y playa', 'Caribbean & beaches', 'Karibik & Strände', 'Caraïbes et plages'),
+  index: t('En esta guía', 'In this guide', 'In diesem Reiseführer', 'Dans ce guide'),
+  intro: t('La costa', 'The coast', 'Die Küste', 'Le littoral'),
+  beach: t('La playa', 'The beach', 'Der Strand', 'La plage'),
+  highlights: t('Qué hacer', 'What to do', 'Unternehmungen', 'Que faire'),
+  stay: t('Dónde hospedarse', 'Where to stay', 'Übernachten', 'Où séjourner'),
+  comingSoon: t('Próximamente', 'Coming soon', 'Demnächst', 'Prochainement'),
+  stayNotice: t('Próximamente encontrarás aquí una selección de alojamientos para organizar tu visita.', 'A selection of places to stay will be available here soon to help you plan your visit.', 'Hier findest du demnächst eine Auswahl an Unterkünften für deinen Besuch.', 'Vous trouverez bientôt ici une sélection d’hébergements pour organiser votre visite.'),
+  quickFacts: t('De un vistazo', 'At a glance', 'Auf einen Blick', 'En un coup d’œil'),
+  location: t('Dónde está', 'Location', 'Lage', 'Situation'),
+  access: t('Cómo se llega', 'Access', 'Anfahrt', 'Accès'),
+  setting: t('Tipo de costa', 'Coastal setting', 'Küstenlandschaft', 'Type de littoral'),
+  planning: t('Organiza tu visita', 'Plan your visit', 'Plane deinen Besuch', 'Organisez votre visite'),
+  arrival: t('Cómo llegar', 'Getting there', 'Anreise', 'Comment venir'),
+  timing: t('Cuándo ir', 'When to go', 'Reisezeit', 'Quand partir'),
+  duration: t('Cuánto tiempo dedicarle', 'How long to stay', 'Wie viel Zeit einplanen', 'Combien de temps prévoir'),
+  routeNote: t('Ruta orientativa, no un servicio reservado. Confirma conexiones, recogida, precio y regreso antes de comprar los billetes; deja margen entre traslados.', 'An outline route, not a booked service. Confirm connections, pickup, price and return before buying tickets; allow time between transfers.', 'Orientierungsroute, keine gebuchte Verbindung. Anschlüsse, Abholung, Preis und Rückfahrt vor dem Ticketkauf bestätigen; Zeitpuffer zwischen Transfers lassen.', 'Itinéraire indicatif, pas un service réservé. Confirmez correspondances, prise en charge, prix et retour avant d’acheter les billets ; gardez une marge entre les trajets.'),
+  tips: t('Antes de ir', 'Before you go', 'Vor der Reise', 'Avant de partir'),
+  faq: t('Preguntas frecuentes', 'Frequently asked questions', 'Häufige Fragen', 'Questions fréquentes'),
+  sources: t('Fuentes consultadas', 'Sources consulted', 'Verwendete Quellen', 'Sources consultées'),
+  reviewed: t('Revisión editorial: octubre de 2026. Confirma accesos, servicios y condiciones del mar antes de viajar.', 'Editorial review: October 2026. Confirm access, services and sea conditions before travelling.', 'Redaktionell geprüft: Oktober 2026. Zugang, Angebote und Seebedingungen vor der Reise bestätigen lassen.', 'Révision éditoriale : octobre 2026. Vérifiez les accès, les services et les conditions en mer avant de partir.'),
+  crop: t('Fotografías adaptadas al encuadre de la página. Licencias y originales en los enlaces de cada autor.', 'Photographs cropped to fit the page. Licences and originals are available through each author’s link.', 'Fotos an das Seitenformat angepasst. Lizenzen und Originale über die jeweiligen Urheberlinks.', 'Photographies recadrées pour la page. Licences et originaux accessibles par les liens des auteurs.'),
+  next: t('Vuelve a descubrir la costa', 'Keep exploring the coast', 'Die Küste weiter entdecken', 'Poursuivre la découverte du littoral'),
+  guide: t('Guía de viaje', 'Travel guide', 'Reiseführer', 'Guide de voyage'),
+};
