@@ -34,5 +34,6 @@ export type BeachGuide = {
   stayAdvice?: LocalText;
   tips: [LocalText, LocalText, LocalText];
   faq: [GuideBlock, GuideBlock, GuideBlock];
-  sources: { name: string; href: string }[];
+  /** Sin `href` se muestra solo el nombre de la fuente (enlace caído o sin URL estable). */
+  sources: { name: string; href?: string }[];
 };
