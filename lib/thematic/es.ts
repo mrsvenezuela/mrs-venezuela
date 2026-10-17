@@ -63,7 +63,7 @@ export const thematicEs: ThematicContent = {
             title: "Los Roques",
             meta: "Dependencias Federales",
             text: "Cayos blancos, lagunas y arrecifes a media hora de vuelo de Caracas.",
-            photo: { src: "/images/commons/madrisqui.jpg", alt: "Cayo Madrisqui, en el archipiélago de Los Roques" },
+            photo: { src: "/images/commons/madrisqui.jpg", alt: "Cayo Madrisquí, en el archipiélago de Los Roques" },
             href: "/playa/los-roques",
           },
           {
@@ -228,7 +228,7 @@ export const thematicEs: ThematicContent = {
     },
     credits: [
       {
-        title: "Cayo Madrisqui, Los Roques",
+        title: "Cayo Madrisquí, Los Roques",
         author: "Wilfredor",
         license: "CC BY-SA 4.0",
         href: "https://commons.wikimedia.org/wiki/File:Madrisqui.jpg",

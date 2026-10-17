@@ -37,7 +37,7 @@ const famousBeaches = [
     description: "Islas, ensenadas y playas de agua calma dentro de un paisaje marino único.",
   },
   {
-    name: "Choroni",
+    name: "Choroní",
     location: "Aragua",
     href: "/playa/choroni",
     description: "Pueblo costero, montaña tropical y playas con mucha identidad venezolana.",

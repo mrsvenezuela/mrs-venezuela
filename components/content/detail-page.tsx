@@ -240,30 +240,30 @@ const canaimaQuickFacts = [
 ];
 
 const stateGuides: Record<string, { capital: string; landscape: string; identity: string; route: string }> = {
-  amazonas: { capital: "Puerto Ayacucho", landscape: "Selva, rios caudalosos y paisajes del Escudo Guayanes.", identity: "Un territorio de culturas originarias y naturaleza de escala inmensa.", route: "Puerto Ayacucho, el Orinoco y sus monumentos naturales." },
-  anzoategui: { capital: "Barcelona", landscape: "Costa oriental, bahias y ciudades junto al Caribe.", identity: "Una mezcla de mar, vida urbana y rutas hacia el oriente venezolano.", route: "Barcelona, Lecheria y los paisajes costeros cercanos." },
-  apure: { capital: "San Fernando de Apure", landscape: "Sabanas abiertas, canos y vida silvestre llanera.", identity: "El ritmo de los hatos, el rio y las tradiciones del llano.", route: "San Fernando, los hatos y las rutas de observacion de fauna." },
-  aragua: { capital: "Maracay", landscape: "Selva tropical, bahias y valles entre costa y montana.", identity: "El Parque Henri Pittier conecta el verde con el Caribe.", route: "Maracay, Choroni y las playas de la costa araguena." },
-  barinas: { capital: "Barinas", landscape: "Llanos amplios con los Andes en el horizonte.", identity: "Puerta occidental de los llanos y tierra de tradicion ganadera.", route: "La ciudad de Barinas y las sabanas que se abren hacia el sur." },
-  bolivar: { capital: "Ciudad Bolivar", landscape: "Tepuyes, rios inmensos y selva del sur venezolano.", identity: "El estado de mayor escala natural: Canaima, Gran Sabana y el Caroni.", route: "Ciudad Bolivar, Canaima, La Gran Sabana y el Salto Angel." },
-  carabobo: { capital: "Valencia", landscape: "Costa central, montanas y espacios historicos.", identity: "Un territorio que enlaza industria, puerto y memoria republicana.", route: "Valencia, Puerto Cabello y los paisajes de San Esteban." },
-  cojedes: { capital: "San Carlos", landscape: "Llanos centrales, rios tranquilos y campos abiertos.", identity: "Una Venezuela rural de sabanas, caballos y rutas pausadas.", route: "San Carlos y las haciendas de los llanos centrales." },
-  "delta-amacuro": { capital: "Tucupita", landscape: "Canales, manglares y la desembocadura del Orinoco.", identity: "Un paisaje anfibio marcado por la cultura warao.", route: "Tucupita y los canos del delta del Orinoco." },
-  "distrito-capital": { capital: "Caracas", landscape: "Una ciudad entre El Avila, cultura y miradores urbanos.", identity: "El corazon cultural, historico y contemporaneo del pais.", route: "El Avila, museos, arquitectura y los barrios de Caracas." },
-  falcon: { capital: "Coro", landscape: "Dunas, costa seca y aguas del Caribe.", identity: "Contrastes entre el desierto de los medanos, pueblos coloniales y cayos.", route: "Coro, los Medanos y el Parque Nacional Morrocoy." },
+  amazonas: { capital: "Puerto Ayacucho", landscape: "Selva, ríos caudalosos y paisajes del Escudo Guayanés.", identity: "Un territorio de culturas originarias y naturaleza de escala inmensa.", route: "Puerto Ayacucho, el Orinoco y sus monumentos naturales." },
+  anzoategui: { capital: "Barcelona", landscape: "Costa oriental, bahías y ciudades junto al Caribe.", identity: "Una mezcla de mar, vida urbana y rutas hacia el oriente venezolano.", route: "Barcelona, Lechería y los paisajes costeros cercanos." },
+  apure: { capital: "San Fernando de Apure", landscape: "Sabanas abiertas, caños y vida silvestre llanera.", identity: "El ritmo de los hatos, el río y las tradiciones del llano.", route: "San Fernando, los hatos y las rutas de observación de fauna." },
+  aragua: { capital: "Maracay", landscape: "Selva tropical, bahías y valles entre costa y montaña.", identity: "El Parque Henri Pittier conecta el verde con el Caribe.", route: "Maracay, Choroní y las playas de la costa aragüeña." },
+  barinas: { capital: "Barinas", landscape: "Llanos amplios con los Andes en el horizonte.", identity: "Puerta occidental de los llanos y tierra de tradición ganadera.", route: "La ciudad de Barinas y las sabanas que se abren hacia el sur." },
+  bolivar: { capital: "Ciudad Bolívar", landscape: "Tepuyes, ríos inmensos y selva del sur venezolano.", identity: "El estado de mayor escala natural: Canaima, Gran Sabana y el Caroní.", route: "Ciudad Bolívar, Canaima, La Gran Sabana y el Salto Ángel." },
+  carabobo: { capital: "Valencia", landscape: "Costa central, montañas y espacios históricos.", identity: "Un territorio que enlaza industria, puerto y memoria republicana.", route: "Valencia, Puerto Cabello y los paisajes de San Esteban." },
+  cojedes: { capital: "San Carlos", landscape: "Llanos centrales, ríos tranquilos y campos abiertos.", identity: "Una Venezuela rural de sabanas, caballos y rutas pausadas.", route: "San Carlos y las haciendas de los llanos centrales." },
+  "delta-amacuro": { capital: "Tucupita", landscape: "Canales, manglares y la desembocadura del Orinoco.", identity: "Un paisaje anfibio marcado por la cultura warao.", route: "Tucupita y los caños del delta del Orinoco." },
+  "distrito-capital": { capital: "Caracas", landscape: "Una ciudad entre El Ávila, cultura y miradores urbanos.", identity: "El corazón cultural, histórico y contemporáneo del país.", route: "El Ávila, museos, arquitectura y los barrios de Caracas." },
+  falcon: { capital: "Coro", landscape: "Dunas, costa seca y aguas del Caribe.", identity: "Contrastes entre el desierto de los médanos, pueblos coloniales y cayos.", route: "Coro, los Médanos y el Parque Nacional Morrocoy." },
   guarico: { capital: "San Juan de los Morros", landscape: "Morros, hatos y el llano central.", identity: "Grandes horizontes y una cultura profundamente llanera.", route: "San Juan de los Morros y las rutas de sabana." },
-  lara: { capital: "Barquisimeto", landscape: "Valles secos, sierras y crepusculos de occidente.", identity: "Musica, arquitectura y una identidad cultural muy marcada.", route: "Barquisimeto, la Flor de Venezuela y sus pueblos cercanos." },
-  merida: { capital: "Merida", landscape: "Paramos, lagunas y cumbres de los Andes.", identity: "Altura, universidades y rutas de montana en el corazon andino.", route: "Merida, el teleferico Mukumbari y la Sierra Nevada." },
-  miranda: { capital: "Los Teques", landscape: "Valles, montanas y playas cercanas a Caracas.", identity: "Escapadas cortas entre naturaleza, cacao y costa.", route: "Los Teques, Higuerote y los pueblos de Barlovento." },
-  monagas: { capital: "Maturin", landscape: "Bosques, cuevas y llanuras del oriente interior.", identity: "Naturaleza subterranea y caminos que conectan con el Caribe oriental.", route: "Maturin y el Monumento Natural Cueva del Guacharo." },
-  "nueva-esparta": { capital: "La Asuncion", landscape: "Islas, playas y cerros junto al Caribe.", identity: "Margarita, Coche y Cubagua se viven a ritmo de mar.", route: "La Asuncion, Playa El Agua, Porlamar e Isla de Coche." },
-  portuguesa: { capital: "Guanare", landscape: "Llanos verdes, rios y campos productivos.", identity: "Devocion, naturaleza y tradicion agricola en el centro-occidente.", route: "Guanare y las rutas rurales de Portuguesa." },
-  sucre: { capital: "Cumana", landscape: "Peninsulas verdes, bahias y mar profundo.", identity: "Una costa de pescadores, cacao y puertas de entrada a Mochima.", route: "Cumana, Mochima y la peninsula de Paria." },
-  tachira: { capital: "San Cristobal", landscape: "Andes fronterizos, neblina y pueblos de montana.", identity: "Rutas altas, cafe y una fuerte tradicion andina.", route: "San Cristobal, La Grita y las montanas del occidente." },
-  trujillo: { capital: "Trujillo", landscape: "Paramos, pueblos altos y montanas andinas.", identity: "Historia, devocion y paisajes de altura entre los Andes.", route: "Trujillo, la Virgen de la Paz y sus pueblos de montana." },
-  "la-guaira": { capital: "La Guaira", landscape: "Mar Caribe y montana a pocos minutos de Caracas.", identity: "Una costa intensa de malecones, playas y memoria portuaria.", route: "La Guaira, Macuto y las playas de la costa central." },
-  yaracuy: { capital: "San Felipe", landscape: "Montanas verdes, rios y bosques de transicion.", identity: "Naturaleza cercana, cafe y rutas tranquilas del centro-occidente.", route: "San Felipe y los parques naturales del estado." },
-  zulia: { capital: "Maracaibo", landscape: "El lago, llanuras calurosas y horizontes del occidente.", identity: "Una identidad marabina entre gaita, gastronomia y relampagos.", route: "Maracaibo, el Puente sobre el Lago y la ruta del Catatumbo." },
+  lara: { capital: "Barquisimeto", landscape: "Valles secos, sierras y crepúsculos de occidente.", identity: "Música, arquitectura y una identidad cultural muy marcada.", route: "Barquisimeto, la Flor de Venezuela y sus pueblos cercanos." },
+  merida: { capital: "Mérida", landscape: "Páramos, lagunas y cumbres de los Andes.", identity: "Altura, universidades y rutas de montaña en el corazón andino.", route: "Mérida, el teleférico Mukumbarí y la Sierra Nevada." },
+  miranda: { capital: "Los Teques", landscape: "Valles, montañas y playas cercanas a Caracas.", identity: "Escapadas cortas entre naturaleza, cacao y costa.", route: "Los Teques, Higuerote y los pueblos de Barlovento." },
+  monagas: { capital: "Maturín", landscape: "Bosques, cuevas y llanuras del oriente interior.", identity: "Naturaleza subterránea y caminos que conectan con el Caribe oriental.", route: "Maturín y el Monumento Natural Cueva del Guácharo." },
+  "nueva-esparta": { capital: "La Asunción", landscape: "Islas, playas y cerros junto al Caribe.", identity: "Margarita, Coche y Cubagua se viven a ritmo de mar.", route: "La Asunción, Playa El Agua, Porlamar e Isla de Coche." },
+  portuguesa: { capital: "Guanare", landscape: "Llanos verdes, ríos y campos productivos.", identity: "Devoción, naturaleza y tradición agrícola en el centro-occidente.", route: "Guanare y las rutas rurales de Portuguesa." },
+  sucre: { capital: "Cumaná", landscape: "Penínsulas verdes, bahías y mar profundo.", identity: "Una costa de pescadores, cacao y puertas de entrada a Mochima.", route: "Cumaná, Mochima y la península de Paria." },
+  tachira: { capital: "San Cristóbal", landscape: "Andes fronterizos, neblina y pueblos de montaña.", identity: "Rutas altas, café y una fuerte tradición andina.", route: "San Cristóbal, La Grita y las montañas del occidente." },
+  trujillo: { capital: "Trujillo", landscape: "Páramos, pueblos altos y montañas andinas.", identity: "Historia, devoción y paisajes de altura entre los Andes.", route: "Trujillo, la Virgen de la Paz y sus pueblos de montaña." },
+  "la-guaira": { capital: "La Guaira", landscape: "Mar Caribe y montaña a pocos minutos de Caracas.", identity: "Una costa intensa de malecones, playas y memoria portuaria.", route: "La Guaira, Macuto y las playas de la costa central." },
+  yaracuy: { capital: "San Felipe", landscape: "Montañas verdes, ríos y bosques de transición.", identity: "Naturaleza cercana, café y rutas tranquilas del centro-occidente.", route: "San Felipe y los parques naturales del estado." },
+  zulia: { capital: "Maracaibo", landscape: "El lago, llanuras calurosas y horizontes del occidente.", identity: "Una identidad marabina entre gaita, gastronomía y relámpagos.", route: "Maracaibo, el Puente sobre el Lago y la ruta del Catatumbo." },
 };
 
 const canaimaFaqs = [
@@ -1070,7 +1070,7 @@ export function DetailPage({ item }: { item: DiscoverItem }) {
             </>
           ) : isState && stateGuide ? (
             <>
-              <p className="text-sm font-semibold uppercase tracking-[0.22em] text-[#247c8f]">Guia del estado</p>
+              <p className="text-sm font-semibold uppercase tracking-[0.22em] text-[#247c8f]">Guía del estado</p>
               <h2 className="mt-3 font-[family-name:var(--font-display)] text-5xl font-semibold text-[#17201b]">Descubre {item.name}.</h2>
               <div className="mt-7 max-w-4xl space-y-5 text-lg leading-8 text-[#4d5b54]">
                 <p><strong className="text-[#17201b]">{stateGuide.capital}</strong> es la capital de {item.name}, un estado que se recorre desde su propia identidad, sus paisajes y sus ritmos locales.</p>
