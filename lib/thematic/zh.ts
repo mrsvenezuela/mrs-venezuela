@@ -13,7 +13,7 @@ export const thematicZh: ThematicContent = {
       alt: "洛斯罗克斯群岛「水岛」的沙洲与碧绿海水",
     },
     meta: {
-      title: "委内瑞拉的加勒比与海滩 | Descubre Venezuela",
+      title: "委内瑞拉的加勒比与海滩 | Mrs Venezuela",
       description:
         "委内瑞拉的海岸与岛屿：洛斯罗克斯、玛格丽塔、莫罗科伊、莫奇马、乔罗尼、帕里亚、拉托尔图加与银岛，以及海岸线自西向东的变化。",
     },
@@ -262,7 +262,7 @@ export const thematicZh: ThematicContent = {
       alt: "梅里达内华达山脉中的玻利瓦尔峰，委内瑞拉最高峰",
     },
     meta: {
-      title: "委内瑞拉的山地与高原 | Descubre Venezuela",
+      title: "委内瑞拉的山地与高原 | Mrs Venezuela",
       description:
         "委内瑞拉的安第斯山：梅里达、塔奇拉与特鲁希略，玻利瓦尔峰、内华达山脉、帕拉莫高原及其村庄与湖泊。",
     },
@@ -468,7 +468,7 @@ export const thematicZh: ThematicContent = {
       position: "center 40%",
     },
     meta: {
-      title: "委内瑞拉的雨林与河流 | Descubre Venezuela",
+      title: "委内瑞拉的雨林与河流 | Mrs Venezuela",
       description:
         "奥里诺科河、委内瑞拉亚马孙、三角洲、圭亚那与卡奈马：大河、森林，以及生活其中的民族。",
     },
@@ -700,7 +700,7 @@ export const thematicZh: ThematicContent = {
       alt: "阿维拉山脚下的加拉加斯",
     },
     meta: {
-      title: "委内瑞拉的城市与文化 | Descubre Venezuela",
+      title: "委内瑞拉的城市与文化 | Mrs Venezuela",
       description:
         "加拉加斯、马拉开波、巴基西梅托、科罗与卡贝略港；解释委内瑞拉的遗产、音乐、节庆与手工艺。",
     },
@@ -926,7 +926,7 @@ export const thematicZh: ThematicContent = {
       alt: "刚做好的委内瑞拉玉米饼 arepa",
     },
     meta: {
-      title: "委内瑞拉的风味 | Descubre Venezuela",
+      title: "委内瑞拉的风味 | Mrs Venezuela",
       description:
         "用照片认识委内瑞拉菜：arepa、pabellón、cachapa 与 hallaca，各地区的风味，可可、甜点、食材，以及十二月的餐桌。",
     },

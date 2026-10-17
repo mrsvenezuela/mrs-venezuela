@@ -13,7 +13,7 @@ export const thematicFr: ThematicContent = {
       alt: "Banc de sable et eaux turquoise à Cayo de Agua, archipel de Los Roques",
     },
     meta: {
-      title: "Caraïbes et plage au Venezuela | Descubre Venezuela",
+      title: "Caraïbes et plage au Venezuela | Mrs Venezuela",
       description:
         "La côte et les îles du Venezuela : Los Roques, Margarita, Morrocoy, Mochima, Choroní, Paria, La Tortuga et Isla de Plata, et comment le littoral change d'ouest en est.",
     },
@@ -250,7 +250,7 @@ export const thematicFr: ThematicContent = {
       alt: "Pico Bolívar, le plus haut sommet du Venezuela, dans la Sierra Nevada de Mérida",
     },
     meta: {
-      title: "Montagne et páramo au Venezuela | Descubre Venezuela",
+      title: "Montagne et páramo au Venezuela | Mrs Venezuela",
       description:
         "Les Andes vénézuéliennes : Mérida, Táchira et Trujillo, le Pico Bolívar, la Sierra Nevada, les páramos, leurs villages et leurs lagunes.",
     },
@@ -456,7 +456,7 @@ export const thematicFr: ThematicContent = {
       position: "center 40%",
     },
     meta: {
-      title: "Forêt et rivières du Venezuela | Descubre Venezuela",
+      title: "Forêt et rivières du Venezuela | Mrs Venezuela",
       description:
         "L'Orénoque, l'Amazonie vénézuélienne, le Delta, la Guayana et Canaima : les grands fleuves, les forêts et les peuples qui y vivent.",
     },
@@ -688,7 +688,7 @@ export const thematicFr: ThematicContent = {
       alt: "Caracas au pied du mont Ávila",
     },
     meta: {
-      title: "Villes et culture du Venezuela | Descubre Venezuela",
+      title: "Villes et culture du Venezuela | Mrs Venezuela",
       description:
         "Caracas, Maracaibo, Barquisimeto, Coro et Puerto Cabello ; le patrimoine, la musique, les fêtes et l'artisanat qui expliquent le Venezuela.",
     },
@@ -914,7 +914,7 @@ export const thematicFr: ThematicContent = {
       alt: "Arepas vénézuéliennes tout juste préparées",
     },
     meta: {
-      title: "Saveurs du Venezuela | Descubre Venezuela",
+      title: "Saveurs du Venezuela | Mrs Venezuela",
       description:
         "La cuisine vénézuélienne en photographies : arepa, pabellón, cachapa et hallaca, les saveurs de chaque région, le cacao, les douceurs, les ingrédients et la table de décembre.",
     },

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     canonical: "/historia",
   },
   openGraph: {
-    title: "Historia de Venezuela | Descubre Venezuela",
+    title: "Historia de Venezuela | Mrs Venezuela",
     description:
       "Un viaje por Venezuela a través del tiempo: de los pueblos que habitaban el territorio antes de 1498 a la gente que forma el país hoy.",
     url: "/historia",

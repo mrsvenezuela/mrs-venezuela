@@ -13,7 +13,7 @@ export const thematicDe: ThematicContent = {
       alt: "Sandbank und türkisfarbenes Wasser bei Cayo de Agua, Archipel Los Roques",
     },
     meta: {
-      title: "Karibik und Strand in Venezuela | Descubre Venezuela",
+      title: "Karibik und Strand in Venezuela | Mrs Venezuela",
       description:
         "Die Küste und die Inseln Venezuelas: Los Roques, Margarita, Morrocoy, Mochima, Choroní, Paria, La Tortuga und Isla de Plata — und wie sich das Litoral von West nach Ost verändert.",
     },
@@ -250,7 +250,7 @@ export const thematicDe: ThematicContent = {
       alt: "Pico Bolívar, der höchste Gipfel Venezuelas, in der Sierra Nevada von Mérida",
     },
     meta: {
-      title: "Berge und Páramo in Venezuela | Descubre Venezuela",
+      title: "Berge und Páramo in Venezuela | Mrs Venezuela",
       description:
         "Die venezolanischen Anden: Mérida, Táchira und Trujillo, der Pico Bolívar, die Sierra Nevada, die Páramos, ihre Dörfer und Lagunen.",
     },
@@ -456,7 +456,7 @@ export const thematicDe: ThematicContent = {
       position: "center 40%",
     },
     meta: {
-      title: "Regenwald und Flüsse Venezuelas | Descubre Venezuela",
+      title: "Regenwald und Flüsse Venezuelas | Mrs Venezuela",
       description:
         "Der Orinoco, der venezolanische Amazonas, das Delta, Guayana und Canaima: die großen Flüsse, die Wälder und die Völker, die dort leben.",
     },
@@ -688,7 +688,7 @@ export const thematicDe: ThematicContent = {
       alt: "Caracas am Fuß des Berges Ávila",
     },
     meta: {
-      title: "Städte und Kultur Venezuelas | Descubre Venezuela",
+      title: "Städte und Kultur Venezuelas | Mrs Venezuela",
       description:
         "Caracas, Maracaibo, Barquisimeto, Coro und Puerto Cabello; das Erbe, die Musik, die Feste und das Handwerk, die Venezuela erklären.",
     },
@@ -914,7 +914,7 @@ export const thematicDe: ThematicContent = {
       alt: "Frisch zubereitete venezolanische Arepas",
     },
     meta: {
-      title: "Aromen Venezuelas | Descubre Venezuela",
+      title: "Aromen Venezuelas | Mrs Venezuela",
       description:
         "Die venezolanische Küche in Bildern: Arepa, Pabellón, Cachapa und Hallaca, die Aromen jeder Region, Kakao, Süßspeisen, Zutaten und der Tisch im Dezember.",
     },

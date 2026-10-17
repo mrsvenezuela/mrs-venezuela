@@ -13,7 +13,7 @@ export const thematicEn: ThematicContent = {
       alt: "Sandbar and turquoise water at Cayo de Agua, Los Roques archipelago",
     },
     meta: {
-      title: "Caribbean and beach in Venezuela | Descubre Venezuela",
+      title: "Caribbean and beach in Venezuela | Mrs Venezuela",
       description:
         "The coast and islands of Venezuela: Los Roques, Margarita, Morrocoy, Mochima, Choroní, Paria, La Tortuga and Isla de Plata, and how the shoreline changes from west to east.",
     },
@@ -250,7 +250,7 @@ export const thematicEn: ThematicContent = {
       alt: "Pico Bolívar, the highest summit in Venezuela, in the Sierra Nevada of Mérida",
     },
     meta: {
-      title: "Mountain and páramo in Venezuela | Descubre Venezuela",
+      title: "Mountain and páramo in Venezuela | Mrs Venezuela",
       description:
         "The Venezuelan Andes: Mérida, Táchira and Trujillo, Pico Bolívar, the Sierra Nevada, the páramos, their villages and their lagoons.",
     },
@@ -456,7 +456,7 @@ export const thematicEn: ThematicContent = {
       position: "center 40%",
     },
     meta: {
-      title: "Rainforest and rivers of Venezuela | Descubre Venezuela",
+      title: "Rainforest and rivers of Venezuela | Mrs Venezuela",
       description:
         "The Orinoco, the Venezuelan Amazon, the Delta, Guayana and Canaima: the great rivers, the forests and the peoples who live in them.",
     },
@@ -688,7 +688,7 @@ export const thematicEn: ThematicContent = {
       alt: "Caracas at the foot of the Ávila mountain",
     },
     meta: {
-      title: "Cities and culture of Venezuela | Descubre Venezuela",
+      title: "Cities and culture of Venezuela | Mrs Venezuela",
       description:
         "Caracas, Maracaibo, Barquisimeto, Coro and Puerto Cabello; the heritage, music, festivals and crafts that explain Venezuela.",
     },
@@ -914,7 +914,7 @@ export const thematicEn: ThematicContent = {
       alt: "Freshly made Venezuelan arepas",
     },
     meta: {
-      title: "Flavours of Venezuela | Descubre Venezuela",
+      title: "Flavours of Venezuela | Mrs Venezuela",
       description:
         "Venezuelan cooking in photographs: arepa, pabellón, cachapa and hallaca, the flavours of each region, cacao, sweets, ingredients and the December table.",
     },

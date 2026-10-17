@@ -28,7 +28,7 @@ export const thematicEs: ThematicContent = {
       alt: "Banco de arena y aguas turquesas en Cayo de Agua, archipiélago de Los Roques",
     },
     meta: {
-      title: "Caribe y playa en Venezuela | Descubre Venezuela",
+      title: "Caribe y playa en Venezuela | Mrs Venezuela",
       description:
         "La costa y las islas de Venezuela: Los Roques, Margarita, Morrocoy, Mochima, Choroní, Paria, La Tortuga e Isla de Plata, y cómo cambia el litoral de occidente a oriente.",
     },
@@ -265,7 +265,7 @@ export const thematicEs: ThematicContent = {
       alt: "Pico Bolívar, la cumbre más alta de Venezuela, en la Sierra Nevada de Mérida",
     },
     meta: {
-      title: "Montaña y páramo en Venezuela | Descubre Venezuela",
+      title: "Montaña y páramo en Venezuela | Mrs Venezuela",
       description:
         "Los Andes venezolanos: Mérida, Táchira y Trujillo, el Pico Bolívar, la Sierra Nevada, los páramos, sus pueblos y sus lagunas.",
     },
@@ -474,7 +474,7 @@ export const thematicEs: ThematicContent = {
       position: "center 40%",
     },
     meta: {
-      title: "Selva y ríos de Venezuela | Descubre Venezuela",
+      title: "Selva y ríos de Venezuela | Mrs Venezuela",
       description:
         "El Orinoco, el Amazonas venezolano, el Delta, Guayana y Canaima: los grandes ríos, las selvas y los pueblos que viven en ellos.",
     },
@@ -709,7 +709,7 @@ export const thematicEs: ThematicContent = {
       alt: "Caracas al pie del cerro Ávila",
     },
     meta: {
-      title: "Ciudades y cultura de Venezuela | Descubre Venezuela",
+      title: "Ciudades y cultura de Venezuela | Mrs Venezuela",
       description:
         "Caracas, Maracaibo, Barquisimeto, Coro y Puerto Cabello; el patrimonio, la música, las fiestas y la artesanía que explican Venezuela.",
     },
@@ -938,7 +938,7 @@ export const thematicEs: ThematicContent = {
       alt: "Arepas venezolanas recién hechas",
     },
     meta: {
-      title: "Sabores de Venezuela | Descubre Venezuela",
+      title: "Sabores de Venezuela | Mrs Venezuela",
       description:
         "La cocina venezolana en fotografías: arepa, pabellón, cachapa y hallaca, los sabores de cada región, el cacao, los dulces, los ingredientes y la mesa de diciembre.",
     },
