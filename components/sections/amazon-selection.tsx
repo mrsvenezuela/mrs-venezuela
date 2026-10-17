@@ -64,7 +64,10 @@ export function AmazonSelection() {
           </div>}
         </div>
         <div className="mt-5 flex flex-wrap items-start justify-between gap-x-8 gap-y-1">
-          <p className="flex min-h-11 items-center gap-2 text-xs tracking-wide text-[#59675f]"><span className="h-1.5 w-1.5 rounded-full bg-[#a47a4f]" aria-hidden="true" />{copy.status}</p>
+          <div className="max-w-md">
+            <p className="flex min-h-11 items-center gap-2 text-xs tracking-wide text-[#59675f]"><span className="h-1.5 w-1.5 rounded-full bg-[#a47a4f]" aria-hidden="true" />{copy.status}</p>
+            <p data-translated="true" className="text-xs leading-5 text-[#59675f]">{copy.affiliateNote}</p>
+          </div>
           <PhotoCredits className="max-w-xl" credits={[
             { author: "Steven Depolo", license: "CC BY 2.0", href: "https://commons.wikimedia.org/wiki/File:Arepitas_Food_Macro.jpg" },
             { author: "Jorge Andrés Paparoni Bruzual", license: "CC BY-SA 2.0", href: "https://commons.wikimedia.org/wiki/File:Bandera_de_Venezuela_en_movimiento.jpg" },
