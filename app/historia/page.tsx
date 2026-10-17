@@ -17,6 +17,14 @@ export const metadata: Metadata = {
     url: "/historia",
     type: "website",
     locale: "es_VE",
+    images: [
+      {
+        url: absoluteUrl("/images/commons/casa-congreso-angostura.jpg"),
+        width: 1800,
+        height: 1350,
+        alt: "Fachada de la Casa del Congreso de Angostura, en Ciudad Bolívar",
+      },
+    ],
   },
 };
 

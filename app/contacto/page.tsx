@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { absoluteUrl } from "@/lib/utils";
 import { ContactPageContent } from "@/components/institutional/contact-page-content";
 import { institutionalTranslations } from "@/lib/institutional-i18n";
 
@@ -20,6 +21,7 @@ export function generateMetadata(): Metadata {
       title: copy.metaTitle,
       description: copy.metaDescription,
       url: "/contacto",
+      images: [{ url: absoluteUrl("/images/opengraph-venezuela.jpg"), width: 1200, height: 630, alt: "Paisaje de Venezuela" }],
     },
   };
 }
