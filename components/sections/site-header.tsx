@@ -32,7 +32,7 @@ export function SiteHeader() {
               Mrs Venezuela
             </span>
             <span className="mt-1 hidden text-[0.58rem] font-semibold uppercase tracking-[0.18em] text-[#68726d] sm:block sm:text-[0.62rem]">
-              Sharing Venezuela with the world.
+              Compartiendo Venezuela con el mundo.
             </span>
           </Link>
 
@@ -79,7 +79,7 @@ export function SiteHeader() {
                     Mrs Venezuela
                   </span>
                   <span className="mt-2 block text-[0.58rem] font-semibold uppercase tracking-[0.2em] text-[#f7f1e3]/65 sm:text-[0.62rem]">
-                    Sharing Venezuela with the world.
+                    Compartiendo Venezuela con el mundo.
                   </span>
                 </Link>
                 <button

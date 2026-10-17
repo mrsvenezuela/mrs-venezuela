@@ -8236,11 +8236,11 @@
     "zh": "Mrs Venezuela",
     "fr": "Mrs Venezuela"
   },
-  "Sharing Venezuela with the world.": {
+  "Compartiendo Venezuela con el mundo.": {
     "en": "Sharing Venezuela with the world.",
-    "zh": "与世界分享委内瑞拉。",
     "de": "Venezuela mit der Welt teilen.",
-    "fr": "Partager le Venezuela avec le monde."
+    "fr": "Partager le Venezuela avec le monde.",
+    "zh": "与世界分享委内瑞拉。"
   },
   "inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.18em] text-[#0f3d2e] transition-opacity duration-200 hover:opacity-60": {
     "en": "inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.18em] text-[#0f3d2e] transition-opacity duration-200 hover:opacity-60",
