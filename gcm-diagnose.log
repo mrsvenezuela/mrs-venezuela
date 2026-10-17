@@ -1,0 +1,182 @@
+﻿Diagnose log at 2026-07-22T10:58:13Z
+
+AppPath: C:\Users\User\Desktop\sexndolls\tools\PortableGit\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Users\User\Desktop\sexndolls\tools\PortableGit\mingw64\bin\
+Version: 2.9.0+194ba290ce533465310d50f811684ab180536ae7
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+OneDriveConsumer=C:\Users\User\OneDrive
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+windir=C:\windows
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 189 Stepping 1, GenuineIntel
+OnlineServices=Online Services
+CODEX_INTERNAL_ORIGINATOR_OVERRIDE=Codex Desktop
+Path=C:\Users\User\Desktop\sexndolls\tools\PortableGit\bin;C:\Users\User\Desktop\sexndolls\tools\PortableGit\mingw64\bin;C:\Users\User\.codex\tmp\arg0\codex-arg0NdD6or;C:\Users\User\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\override;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\HP\1E.Performance.Assist\Extensibility\NomadBranch;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\Python\bin;C:\Users\User\AppData\Roaming\npm;C:\Users\User\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\fallback;C:\Users\User\AppData\Local\OpenAI\Codex\bin\ada252862d154cdd;C:\Program Files\WindowsApps\OpenAI.Codex_26.715.3651.0_x64__2p2nqsd0c76g0\app\resources
+PROCESSOR_REVISION=bd01
+TEMP=C:\Users\User\AppData\Local\Temp
+USERPROFILE=C:\Users\User
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+LOGONSERVER=\\LAPTOP-SDOL1DFQ
+USERNAME=User
+SystemRoot=C:\windows
+ZSH_TMUX_AUTOSTARTED=true
+CODEX_THREAD_ID=019f5860-9a60-79d3-913b-42338fdfb40e
+OneDrive=C:\Users\User\OneDrive
+PROCESSOR_ARCHITECTURE=AMD64
+CommonProgramFiles=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+RUST_LOG=warn
+CODEX_SHELL=1
+NODE_REPL_TRUSTED_BROWSER_CLIENT_SHA256S=330cfa6875d3acd34ed3d321d03e97c0dd9ee3c1855467f2600215089f2d8279,7ed52dae165c3bc22b6d24f282e2c1fbc87f6949fbbe037767a7418d8f517f01
+ProgramData=C:\ProgramData
+platformcode=M8
+ZSH_TMUX_AUTOSTART=false
+HOMEPATH=\Users\User
+COMPUTERNAME=LAPTOP-SDOL1DFQ
+ALLUSERSPROFILE=C:\ProgramData
+NODE_REPL_TRUSTED_CODE_PATHS=C:\Users\User\.codex
+TMP=C:\Users\User\AppData\Local\Temp
+SHELL=C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+DISABLE_AUTO_UPDATE=true
+GIT_TRACE2_PARENT_SID=e744a89a-6469-4898-b62a-d5a86c6e4fc5
+SystemDrive=C:
+NUMBER_OF_PROCESSORS=8
+OS=Windows_NT
+CODEX_PERMISSION_PROFILE=:workspace
+ProgramFiles=C:\Program Files
+ComSpec=C:\windows\system32\cmd.exe
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-SDOL1DFQ
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+CODEX_SANDBOX_NETWORK_DISABLED=1
+PSModulePath=C:\Users\User\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules
+APPDATA=C:\Users\User\AppData\Roaming
+USERDOMAIN=LAPTOP-SDOL1DFQ
+PROCESSOR_LEVEL=6
+LOCALAPPDATA=C:\Users\User\AppData\Local
+BROWSER_USE_AVAILABLE_BACKENDS=chrome,iab
+CommonProgramW6432=C:\Program Files\Common Files
+RegionCode=EMEA
+PUBLIC=C:\Users\Public
+LOG_FORMAT=json
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\User\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\User\AppData\Local\Temp\24ab4f45b412edbcab515cb3'... OK
+Reading from temporary file 'C:\Users\User\AppData\Local\Temp\24ab4f45b412edbcab515cb3'... OK
+Deleting temporary file 'C:\Users\User\AppData\Local\Temp\24ab4f45b412edbcab515cb3'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\User
+UserDataDirectoryPath: C:\Users\User\.gcm
+GetCurrentDirectory(): C:\Users\User\Desktop\sexndolls\descubre-venezuela
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:62414/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.55.0.windows.3'
+Locating current repository...Git repository at 'C:/Users/User/Desktop/sexndolls/descubre-venezuela/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	core.symlinks=false
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	core.autocrlf=true
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	core.fscache=true
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	color.interactive=true
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	color.ui=auto
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	help.format=html
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	rebase.autosquash=true
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	filter.lfs.required=true
+file:C:/Users/User/Desktop/sexndolls/tools/PortableGit/etc/gitconfig	credential.helper=helper-selector
+file:C:/Users/User/.gitconfig	safe.directory=C:/Users/User/Desktop/sexndolls/descubre-venezuela
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	user.name=mrsvenezuela
+file:.git/config	user.email=mrsvenezuela@users.noreply.github.com
+file:.git/config	remote.origin.url=https://github.com/mrsvenezuela/descubre-venezuela.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	credential.helper=manager
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\User\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\User\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+

@@ -1,0 +1,178 @@
+
+> descubre-venezuela@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+   ▲ Next.js 15.5.20
+   - Local:        http://127.0.0.1:3000
+   - Network:      http://127.0.0.1:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1555ms
+ ○ Compiling /sobre-nosotros ...
+ ✓ Compiled /sobre-nosotros in 3.6s (1514 modules)
+ GET /sobre-nosotros 200 in 3894ms
+ GET /sobre-nosotros 200 in 57ms
+ ○ Compiling /contacto ...
+ ✓ Compiled /contacto in 774ms (1512 modules)
+ GET /contacto 200 in 872ms
+ GET /contacto 200 in 21ms
+ ✓ Compiled in 321ms (1512 modules)
+ GET /contacto 200 in 59ms
+ ✓ Compiled in 234ms (1512 modules)
+ GET /contacto 200 in 46ms
+ GET /sobre-nosotros 200 in 181ms
+ GET /contacto 200 in 58ms
+ GET /sobre-nosotros 200 in 83ms
+ GET /contacto 200 in 60ms
+ GET /sobre-nosotros 200 in 63ms
+ GET /contacto 200 in 58ms
+ GET /sobre-nosotros 200 in 55ms
+ GET /contacto 200 in 70ms
+ GET /sobre-nosotros 200 in 55ms
+ ✓ Compiled in 410ms (1512 modules)
+ GET /sobre-nosotros 200 in 99ms
+ GET /sobre-nosotros 200 in 149ms
+ GET /sobre-nosotros 200 in 48ms
+ GET /contacto 200 in 55ms
+ ✓ Compiled in 506ms (685 modules)
+ ✓ Compiled in 340ms (685 modules)
+ GET /contacto 200 in 329ms
+ GET /contacto 200 in 22ms
+ ✓ Compiled in 2.2s (1512 modules)
+ ✓ Compiled in 322ms (685 modules)
+ ✓ Compiled in 673ms (1512 modules)
+ ✓ Compiled in 1000ms (1512 modules)
+ ✓ Compiled in 4.4s (685 modules)
+ ✓ Compiled in 358ms (685 modules)
+ ✓ Compiled in 406ms (685 modules)
+ ✓ Compiled in 1053ms (1512 modules)
+ ✓ Compiled in 624ms (1512 modules)
+ ✓ Compiled in 501ms (1512 modules)
+ ✓ Compiled in 429ms (1512 modules)
+ ✓ Compiled in 675ms (1512 modules)
+ ✓ Compiled in 415ms (1512 modules)
+ ✓ Compiled in 459ms (1512 modules)
+ ✓ Compiled in 551ms (1512 modules)
+ ✓ Compiled in 408ms (1512 modules)
+ ✓ Compiled in 620ms (1512 modules)
+ ✓ Compiled in 474ms (1512 modules)
+ ✓ Compiled in 434ms (1512 modules)
+ ✓ Compiled in 572ms (1512 modules)
+ ✓ Compiled in 442ms (1512 modules)
+ ✓ Compiled in 847ms (1512 modules)
+ ✓ Compiled in 687ms (1512 modules)
+ ✓ Compiled in 452ms (1512 modules)
+ ✓ Compiled in 499ms (1512 modules)
+ ✓ Compiled in 753ms (1512 modules)
+ ✓ Compiled in 819ms (1512 modules)
+ ✓ Compiled in 781ms (1512 modules)
+ ✓ Compiled in 440ms (685 modules)
+ ✓ Compiled in 734ms (1512 modules)
+ ✓ Compiled in 711ms (1512 modules)
+ ✓ Compiled in 852ms (1512 modules)
+ ✓ Compiled in 462ms (685 modules)
+ ✓ Compiled in 312ms (685 modules)
+ ✓ Compiled in 313ms (685 modules)
+ ✓ Compiled in 770ms (1512 modules)
+ ✓ Compiled in 879ms (1512 modules)
+ ✓ Compiled in 341ms (685 modules)
+ ✓ Compiled in 629ms (1512 modules)
+ ✓ Compiled in 899ms (685 modules)
+ ✓ Compiled in 522ms (685 modules)
+ ✓ Compiled in 358ms (685 modules)
+ ✓ Compiled in 586ms (685 modules)
+ ✓ Compiled in 276ms (685 modules)
+ ✓ Compiled in 315ms (685 modules)
+ ✓ Compiled in 374ms (685 modules)
+ ✓ Compiled in 859ms (685 modules)
+ ✓ Compiled in 1316ms (1512 modules)
+ ✓ Compiled in 469ms (685 modules)
+ ✓ Compiled in 631ms (685 modules)
+ ✓ Compiled in 961ms (685 modules)
+ ✓ Compiled in 534ms (685 modules)
+ ✓ Compiled in 364ms (685 modules)
+ ✓ Compiled in 294ms (685 modules)
+ ✓ Compiled in 438ms (685 modules)
+ ✓ Compiled in 489ms (685 modules)
+ ✓ Compiled in 339ms (685 modules)
+ ✓ Compiled in 517ms (685 modules)
+ ✓ Compiled in 317ms (685 modules)
+ ✓ Compiled in 357ms (685 modules)
+ ✓ Compiled in 376ms (685 modules)
+ ✓ Compiled in 316ms (685 modules)
+ ✓ Compiled in 380ms (685 modules)
+ ✓ Compiled in 272ms (685 modules)
+ ✓ Compiled in 504ms (685 modules)
+ ✓ Compiled in 482ms (685 modules)
+ ✓ Compiled in 364ms (685 modules)
+ ✓ Compiled in 310ms (685 modules)
+ ✓ Compiled in 582ms (685 modules)
+ ✓ Compiled in 424ms (685 modules)
+ ✓ Compiled in 462ms (685 modules)
+ ✓ Compiled in 318ms (685 modules)
+ ✓ Compiled in 412ms (685 modules)
+ ✓ Compiled in 367ms (685 modules)
+ ✓ Compiled in 323ms (685 modules)
+ ✓ Compiled in 313ms (685 modules)
+ ✓ Compiled in 548ms (685 modules)
+ ✓ Compiled in 383ms (685 modules)
+ ✓ Compiled in 341ms (685 modules)
+ ✓ Compiled in 519ms (685 modules)
+ ✓ Compiled in 430ms (685 modules)
+ ✓ Compiled in 394ms (685 modules)
+ ✓ Compiled in 532ms (685 modules)
+ ✓ Compiled in 584ms (685 modules)
+ ✓ Compiled in 360ms (685 modules)
+ ✓ Compiled in 390ms (685 modules)
+ ✓ Compiled in 377ms (685 modules)
+ ✓ Compiled in 325ms (685 modules)
+ ✓ Compiled in 318ms (685 modules)
+ ✓ Compiled in 294ms (685 modules)
+ ✓ Compiled in 849ms (685 modules)
+ ✓ Compiled in 488ms (685 modules)
+ ✓ Compiled in 1460ms (1512 modules)
+ ✓ Compiled in 437ms (685 modules)
+ ✓ Compiled in 397ms (685 modules)
+ ✓ Compiled in 419ms (685 modules)
+ ✓ Compiled in 288ms (685 modules)
+ ✓ Compiled in 306ms (685 modules)
+ ✓ Compiled in 329ms (685 modules)
+ ✓ Compiled in 288ms (685 modules)
+ ✓ Compiled in 311ms (685 modules)
+ ✓ Compiled in 318ms (685 modules)
+ ✓ Compiled in 344ms (685 modules)
+ ✓ Compiled in 325ms (685 modules)
+ ✓ Compiled in 284ms (685 modules)
+ ✓ Compiled in 624ms (685 modules)
+ ✓ Compiled in 667ms (1512 modules)
+ ✓ Compiled in 287ms (685 modules)
+ ✓ Compiled in 292ms (685 modules)
+ ✓ Compiled in 285ms (685 modules)
+ ✓ Compiled in 482ms (685 modules)
+ ✓ Compiled in 791ms (685 modules)
+ ✓ Compiled in 879ms (1512 modules)
+ ✓ Compiled in 302ms (685 modules)
+ ✓ Compiled in 342ms (685 modules)
+ ✓ Compiled in 295ms (685 modules)
+ ✓ Compiled in 311ms (685 modules)
+ ✓ Compiled in 298ms (685 modules)
+ ✓ Compiled in 277ms (685 modules)
+ ✓ Compiled in 270ms (685 modules)
+ ✓ Compiled in 397ms (685 modules)
+ ✓ Compiled in 357ms (685 modules)
+ ✓ Compiled in 338ms (685 modules)
+ ✓ Compiled in 350ms (685 modules)
+ ✓ Compiled in 362ms (685 modules)
+ ○ Compiling /playa/[slug] ...
+   ▲ Next.js 15.5.20
+   - Local:        http://127.0.0.1:3000
+   - Network:      http://127.0.0.1:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.8s
+ ○ Compiling / ...
+ ✓ Compiled / in 14.3s (1632 modules)
+ ✓ Compiled in 927ms (715 modules)
+ ✓ Compiled in 349ms (715 modules)
