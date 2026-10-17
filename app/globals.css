@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f7f4ec;
+  --foreground: #17201b;
+  --jungle: #0f3d2e;
+  --jungle-soft: #dce8df;
+  --caribbean: #247c8f;
+  --sand: #efe5d0;
+  --mist: #f9faf8;
+  --muted: #68726d;
+  --border: #e6dfd2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: var(--foreground);
+  background: var(--background);
+  font-feature-settings: "liga" 1, "kern" 1;
+}
+
+::selection {
+  color: white;
+  background: var(--caribbean);
+}
+
+.container-page {
+  width: min(1180px, calc(100% - 40px));
+  margin: 0 auto;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  backdrop-filter: blur(18px);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Las secciones de las guías se saltan con anclas; la barra pegajosa mide unos 60 px. */
+[id^="guia-"] {
+  scroll-margin-top: 5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+.masonry {
+  column-count: 3;
+  column-gap: 18px;
+}
+
+.masonry > * {
+  break-inside: avoid;
+  margin-bottom: 18px;
+}
+
+@media (max-width: 900px) {
+  .masonry {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 640px) {
+  .container-page {
+    width: min(100% - 28px, 1180px);
+  }
+
+  .masonry {
+    column-count: 1;
+  }
+}
