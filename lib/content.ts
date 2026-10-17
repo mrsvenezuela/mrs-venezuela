@@ -30,6 +30,8 @@ export type DiscoverItem = {
   name: string;
   kicker: string;
   description: string;
+  /** Descripción para buscadores cuando `description` es demasiado corta. */
+  seoDescription?: string;
   /** "" = sin foto verificada: quien pinte la tarjeta muestra un marcador neutro. */
   image: string;
   /** Texto alternativo propio cuando la foto no se describe con el nombre. */
@@ -83,8 +85,8 @@ export const heroImage =
 export const heroSlides = [
   {
     src: venezuelaImages.angelFalls,
-    alt: "Salto Angel en Canaima",
-    label: "Salto Angel",
+    alt: "Salto Ángel en Canaima",
+    label: "Salto Ángel",
     location: "Parque Nacional Canaima",
   },
   {
@@ -95,21 +97,21 @@ export const heroSlides = [
   },
   {
     src: venezuelaImages.medanos,
-    alt: "Medanos de Coro",
-    label: "Medanos de Coro",
-    location: "Falcon",
+    alt: "Médanos de Coro",
+    label: "Médanos de Coro",
+    location: "Falcón",
   },
   {
     src: venezuelaImages.merida,
-    alt: "Pico Espejo en Merida",
-    label: "Merida",
+    alt: "Pico Espejo en Mérida",
+    label: "Mérida",
     location: "Pico Espejo",
   },
   {
     src: venezuelaImages.avila,
-    alt: "Caracas y El Avila",
+    alt: "Caracas y El Ávila",
     label: "Caracas",
-    location: "El Avila",
+    location: "El Ávila",
   },
 ];
 
@@ -154,9 +156,9 @@ export const featured: DiscoverItem[] = [
     slug: "canaima",
     name: "Parque Nacional Canaima",
     kicker: "Tepuyes y agua",
-    description: "Un territorio inmenso de mesetas ancestrales, rios color ambar y saltos que parecen venir de otro tiempo.",
+    description: "Un territorio inmenso de mesetas ancestrales, ríos color ámbar y saltos que parecen venir de otro tiempo.",
     image: venezuelaImages.angelFalls,
-    region: "Bolivar",
+    region: "Bolívar",
     readTime: "7 min",
   },
   {
@@ -186,7 +188,7 @@ export const featured: DiscoverItem[] = [
     kicker: "Altura andina",
     description: "La cima simbólica de los Andes venezolanos, rodeada de páramos, lagunas frías y caminos memorables.",
     image: venezuelaImages.picoBolivar,
-    region: "Merida",
+    region: "Mérida",
     readTime: "6 min",
   },
 ];
@@ -335,16 +337,16 @@ export const additionalDestinations: DiscoverItem[] = [
 ];
 
 export const categories = [
-  { label: "Playas", icon: Waves, href: "/playas", text: "Cayos, bahias y costas caribenas." },
+  { label: "Playas", icon: Waves, href: "/playas", text: "Cayos, bahías y costas caribeñas." },
   { label: "Parques Nacionales", icon: Trees, href: "/parque-nacional/canaima", text: "Santuarios naturales y rutas memorables." },
-  { label: "Montanas", icon: Mountain, href: "/montana/pico-bolivar", text: "Andes, tepuyes y miradores." },
-  { label: "Selvas", icon: Palmtree, href: "/estado/amazonas", text: "Rios, comunidades y biodiversidad." },
+  { label: "Montañas", icon: Mountain, href: "/montana/pico-bolivar", text: "Andes, tepuyes y miradores." },
+  { label: "Selvas", icon: Palmtree, href: "/estado/amazonas", text: "Ríos, comunidades y biodiversidad." },
   { label: "Ciudades", icon: Building2, href: "/ciudad/caracas", text: "Arquitectura, barrios y vida urbana." },
-  { label: "Gastronomia", icon: Beef, href: "/comida/arepa", text: "Sabores regionales y platos esenciales." },
-  { label: "Fauna", icon: Binoculars, href: "/animal/turpial", text: "Aves, felinos, reptiles y especies unicas." },
+  { label: "Gastronomía", icon: Beef, href: "/comida/arepa", text: "Sabores regionales y platos esenciales." },
+  { label: "Fauna", icon: Binoculars, href: "/animal/turpial", text: "Aves, felinos, reptiles y especies únicas." },
   { label: "Flora", icon: Flower2, href: "/planta/orquidea", text: "Bosques, flores nacionales y ecosistemas." },
   { label: "Historia", icon: Landmark, href: "/historia", text: "De los pueblos originarios a hoy." },
-  { label: "Cultura", icon: BookOpen, href: "/articulo/cultura-viva", text: "Musica, tradiciones y celebraciones." },
+  { label: "Cultura", icon: BookOpen, href: "/articulo/cultura-viva", text: "Música, tradiciones y celebraciones." },
 ];
 
 export const gallery = [
@@ -370,17 +372,17 @@ export const articles: DiscoverItem[] = [
     kind: "articulo",
     slug: "sabores-que-definen-venezuela",
     name: "Sabores que definen Venezuela",
-    kicker: "Gastronomia",
-    description: "Arepas, cacao, quesos frescos, pescados y recetas regionales que cuentan el pais desde la mesa.",
+    kicker: "Gastronomía",
+    description: "Arepas, cacao, quesos frescos, pescados y recetas regionales que cuentan el país desde la mesa.",
     image: venezuelaImages.arepa,
     readTime: "6 min",
   },
   {
     kind: "articulo",
     slug: "cultura-viva",
-    name: "Cultura viva: fiestas, musica y tradiciones",
+    name: "Cultura viva: fiestas, música y tradiciones",
     kicker: "Identidad",
-    description: "Un recorrido por celebraciones, ritmos, artesanias y memorias que dan forma a la vida venezolana.",
+    description: "Un recorrido por celebraciones, ritmos, artesanías y memorias que dan forma a la vida venezolana.",
     image: venezuelaImages.culture,
     readTime: "8 min",
   },
@@ -408,7 +410,7 @@ export const searchIndex: DiscoverItem[] = [
     slug: "caracas",
     name: "Caracas",
     kicker: "Ciudad",
-    description: "Capital vibrante entre el Avila, museos, gastronomia contemporanea y arquitectura moderna.",
+    description: "Capital vibrante entre el Ávila, museos, gastronomía contemporánea y arquitectura moderna.",
     image: venezuelaImages.avila,
   },
   {
@@ -422,17 +424,19 @@ export const searchIndex: DiscoverItem[] = [
   {
     kind: "planta",
     slug: "orquidea",
-    name: "Orquidea",
+    name: "Orquídea",
     kicker: "Flora",
-    description: "Flor nacional y emblema de la diversidad botanica venezolana.",
+    description: "Flor nacional y emblema de la diversidad botánica venezolana.",
+    seoDescription: "La orquídea Cattleya mossiae, conocida como flor de mayo, es la flor nacional de Venezuela y un emblema de la diversidad botánica del país.",
     image: venezuelaImages.orchid,
   },
   {
     kind: "comida",
     slug: "arepa",
     name: "Arepa",
-    kicker: "Gastronomia",
-    description: "Icono culinario cotidiano, versatil y profundamente venezolano.",
+    kicker: "Gastronomía",
+    description: "Ícono culinario cotidiano, versátil y profundamente venezolano.",
+    seoDescription: "La arepa, ícono culinario de Venezuela: un pan de maíz cotidiano y versátil que se rellena de mil maneras y acompaña la mesa de todo el país.",
     image: venezuelaImages.arepa,
   },
   {
@@ -440,7 +444,7 @@ export const searchIndex: DiscoverItem[] = [
     slug: "camino-de-los-libertadores",
     name: "Camino de los Libertadores",
     kicker: "Historia",
-    description: "Memoria, independencia y rutas patrimoniales para leer el pais desde sus origenes republicanos.",
+    description: "Memoria, independencia y rutas patrimoniales para leer el país desde sus orígenes republicanos.",
     image: venezuelaImages.history,
   },
 ];

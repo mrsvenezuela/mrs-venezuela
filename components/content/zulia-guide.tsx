@@ -157,7 +157,7 @@ export function ZuliaGuide() {
           {places.map((place) => (
             <article key={place.id} className="group overflow-hidden rounded-[28px] border border-[#e8e1d5] bg-white">
               <div className="relative aspect-[4/3] overflow-hidden">
-                <Image src={place.image} alt={place.name} fill sizes="(min-width: 1024px) 33vw, 100vw" unoptimized className="object-cover transition-transform duration-500 group-hover:scale-[1.03]" />
+                <Image src={place.image} alt={place.name} fill sizes="(min-width: 1024px) 33vw, 100vw" unoptimized={place.image.startsWith("http")} className="object-cover transition-transform duration-500 group-hover:scale-[1.03]" />
               </div>
               <details id={place.id} className="group/details">
                 <summary className="flex cursor-pointer list-none items-center justify-between gap-4 p-6 text-[#17201b] [&::-webkit-details-marker]:hidden">

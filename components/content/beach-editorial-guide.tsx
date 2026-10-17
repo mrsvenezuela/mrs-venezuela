@@ -173,7 +173,7 @@ export function BeachEditorialGuide({ guide }: { guide: BeachGuide }) {
       <div className="mt-4 space-y-2">
         {credits.length > 0 ? <PhotoCredits credits={credits}><p className="mt-2">{labels.crop[language]}</p></PhotoCredits> : null}
         <details className="group"><summary className={`flex min-h-11 w-fit cursor-pointer list-none items-center gap-2 text-xs text-[#59675f] ${focus} [&::-webkit-details-marker]:hidden`}>{labels.sources[language]}<ChevronDown size={15} aria-hidden="true" className="group-open:rotate-180" /></summary>
-          <ul className="space-y-2 py-3 text-xs text-[#59675f]">{guide.sources.map((source) => <li key={source.href}><a className={`underline underline-offset-4 ${focus}`} href={source.href} target="_blank" rel="noreferrer">{source.name}</a></li>)}</ul>
+          <ul className="space-y-2 py-3 text-xs text-[#59675f]">{guide.sources.map((source) => <li key={source.href ?? source.name}>{source.href ? <a className={`underline underline-offset-4 ${focus}`} href={source.href} target="_blank" rel="noreferrer">{source.name}</a> : source.name}</li>)}</ul>
         </details>
       </div>
       <Link href="/caribe-y-playa#destinos-esenciales" className={`mt-8 inline-flex min-h-12 items-center gap-3 rounded-full border border-[#247c8f]/30 px-6 py-3 text-sm text-[#175363] ${focus}`}>{labels.next[language]}<ArrowUpRight size={17} aria-hidden="true" /></Link>

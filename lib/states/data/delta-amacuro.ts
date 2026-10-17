@@ -188,7 +188,7 @@ export const deltaAmacuro: StateGuideData = {
   ],
 
   seo: {
-    title: "Delta Amacuro: guía de viaje del delta del Orinoco y el pueblo warao",
+    title: "Delta Amacuro: guía del delta y el pueblo warao",
     description: "Guía editorial de Delta Amacuro: Tucupita, los caños del Orinoco, el Parque Nacional Mariusa, el pueblo warao y la navegación. Historia, naturaleza y consejos.",
   },
 

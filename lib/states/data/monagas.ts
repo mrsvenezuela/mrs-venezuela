@@ -199,7 +199,7 @@ export const monagas: StateGuideData = {
   ],
 
   seo: {
-    title: "Monagas: guía de viaje de la Cueva del Guácharo, Caripe y el llano",
+    title: "Monagas: guía de la Cueva del Guácharo y Caripe",
     description: "Guía de Monagas: Maturín, la Cueva del Guácharo, el café de Caripe, los morichales del Morichal Largo y los llanos orientales. Historia, cultura y consejos.",
   },
 

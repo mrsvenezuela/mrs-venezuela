@@ -13,7 +13,7 @@ export const thematicDe: ThematicContent = {
       alt: "Sandbank und türkisfarbenes Wasser bei Cayo de Agua, Archipel Los Roques",
     },
     meta: {
-      title: "Karibik und Strand in Venezuela | Descubre Venezuela",
+      title: "Karibik und Strand in Venezuela | Mrs Venezuela",
       description:
         "Die Küste und die Inseln Venezuelas: Los Roques, Margarita, Morrocoy, Mochima, Choroní, Paria, La Tortuga und Isla de Plata — und wie sich das Litoral von West nach Ost verändert.",
     },
@@ -228,7 +228,7 @@ export const thematicDe: ThematicContent = {
         title: "Nationalpark Morrocoy",
         author: "Regisrob",
         license: "CC BY 3.0",
-        href: "https://commons.wikimedia.org/wiki/File:Morrocoy_sea_island.jpg",
+        href: "https://commons.wikimedia.org/wiki/File:Morrocoy_sea_island.JPG",
       },
       {
         title: "Cayo Dos Mosquises, Los Roques",
@@ -250,7 +250,7 @@ export const thematicDe: ThematicContent = {
       alt: "Pico Bolívar, der höchste Gipfel Venezuelas, in der Sierra Nevada von Mérida",
     },
     meta: {
-      title: "Berge und Páramo in Venezuela | Descubre Venezuela",
+      title: "Berge und Páramo in Venezuela | Mrs Venezuela",
       description:
         "Die venezolanischen Anden: Mérida, Táchira und Trujillo, der Pico Bolívar, die Sierra Nevada, die Páramos, ihre Dörfer und Lagunen.",
     },
@@ -435,11 +435,11 @@ export const thematicDe: ThematicContent = {
         license: "CC BY-SA 3.0",
         href: "https://commons.wikimedia.org/wiki/File:Telef%C3%A9rico_del_Pico_Espejo.JPG",
       },
-      { title: "Frailejones im Páramo", author: "Adolfo (Ajerit)", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Paramo_1.jpg" },
-      { title: "Gipfel in La Culata", author: "Arnaldo Noguera Sifontes", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Picos_en_La_Culata.jpg" },
-      { title: "Nordflanke des Pico Humboldt", author: "Massieljc", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Flanco_norte_del_Pico_Humboldt.jpg" },
-      { title: "Dorf Apartaderos", author: "Rjcastillo", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Vista_del_pueblo_de_Apartaderos.jpg" },
-      { title: "Plaza Bolívar, Los Nevados", author: "José Alfaro", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Plaza_Bolivar_de_Los_Nevados.jpg" },
+      { title: "Frailejones im Páramo", author: "Adolfo (Ajerit)", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:P%C3%A1ramo_1.jpg" },
+      { title: "Gipfel in La Culata", author: "Arnaldo Noguera Sifontes", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Picos_en_la_culata.jpg" },
+      { title: "Nordflanke des Pico Humboldt", author: "Massieljc", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Flanco_Norte_del_Pico_Humboldt.jpg" },
+      { title: "Dorf Apartaderos", author: "Rjcastillo", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Vista_del_Pueblo_de_Apartaderos.jpg" },
+      { title: "Plaza Bolívar, Los Nevados", author: "José Alfaro", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Plaza_Bol%C3%ADvar_de_Los_Nevados.jpg" },
       { title: "Felder und Dorf, Anden von Mérida", author: "José Alfaro", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Siembra_y_pueblo.jpg" },
     ],
   },
@@ -456,7 +456,7 @@ export const thematicDe: ThematicContent = {
       position: "center 40%",
     },
     meta: {
-      title: "Regenwald und Flüsse Venezuelas | Descubre Venezuela",
+      title: "Regenwald und Flüsse Venezuelas | Mrs Venezuela",
       description:
         "Der Orinoco, der venezolanische Amazonas, das Delta, Guayana und Canaima: die großen Flüsse, die Wälder und die Völker, die dort leben.",
     },
@@ -646,9 +646,9 @@ export const thematicDe: ThematicContent = {
       { title: "Historisches Viertel von Ciudad Bolívar", author: "Venecon", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Ciudad_Bol%C3%ADvar_historical_zone.jpg" },
       {
         title: "Salto Hacha und Einbaum, Canaima",
-        author: "Wilfredor",
-        license: "CC BY-SA 4.0",
-        href: "https://commons.wikimedia.org/wiki/File:Salto_Hacha_y_curiara_sector_occidental.jpg",
+        author: "Yosmary Lopez",
+        license: "CC BY-SA 3.0",
+        href: "https://commons.wikimedia.org/wiki/File:Salto_Hacha_y_Curiara_(Sector_Occidental).JPG",
       },
       {
         title: "La Gran Sabana",
@@ -658,9 +658,9 @@ export const thematicDe: ThematicContent = {
       },
       {
         title: "Quebrada de Jaspe, Gran Sabana",
-        author: "Vinícius Pinheiro",
-        license: "CC BY-SA 4.0",
-        href: "https://commons.wikimedia.org/wiki/File:Gran_Sabana_Quebrada_de_Jaspe_I_(1).jpg",
+        author: "Paolo Costa Baldi",
+        license: "CC BY-SA 3.0",
+        href: "https://commons.wikimedia.org/wiki/File:Gran_Sabana_Quebrada_de_Jaspe_I_(1).JPG",
       },
       {
         title: "Tepui Kukenán",
@@ -668,12 +668,12 @@ export const thematicDe: ThematicContent = {
         license: "CC BY-SA 3.0",
         href: "https://commons.wikimedia.org/wiki/File:Kukenan_tepuy.jpg",
       },
-      { title: "Panorama des Orinoco", author: "Shishoxisrax", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_del_r%C3%ADo_Orinoco_en_Amazonas.jpg" },
+      { title: "Panorama des Orinoco", author: "Shishoxisrax", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Panoramica_del_rio_orinoco_en_amazonas.JPG" },
       { title: "Fluss Sipapo, Amazonas", author: "Fernando Flores", license: "CC BY-SA 2.0", href: "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Sipapo_-_Sipapo_River_(12917850754).jpg" },
       { title: "Caño Zorro, Amazonas", author: "Fernando Flores", license: "CC BY-SA 2.0", href: "https://commons.wikimedia.org/wiki/File:Ca%C3%B1o_Zorro_(15020517430).jpg" },
       { title: "Orinoco-Delta", author: "Antolin Martinez A.", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Delta_del_Orinoco_110514-27.JPG" },
       { title: "Wasserfall La Llovizna, Río Caroní", author: "Daniel Méndez", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:La_Llovizna_1.jpg" },
-      { title: "Weißkehltukan", author: "Fernando Flores", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Piapoco_de_garganta_blanca_(Ramphastos_tucanus_cuvieri).jpg" },
+      { title: "Weißkehltukan", author: "Fernando Flores", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Piapoco_de_Garganta_Blanca_(Ramphastos_tucanus_cuvieri).jpg" },
     ],
   },
 
@@ -688,7 +688,7 @@ export const thematicDe: ThematicContent = {
       alt: "Caracas am Fuß des Berges Ávila",
     },
     meta: {
-      title: "Städte und Kultur Venezuelas | Descubre Venezuela",
+      title: "Städte und Kultur Venezuelas | Mrs Venezuela",
       description:
         "Caracas, Maracaibo, Barquisimeto, Coro und Puerto Cabello; das Erbe, die Musik, die Feste und das Handwerk, die Venezuela erklären.",
     },
@@ -890,14 +890,14 @@ export const thematicDe: ThematicContent = {
       { title: "Straße Los Lanceros in der Altstadt von Puerto Cabello — verkleinertes Bild; Anzeigeausschnitt", author: "Jesus Enrique Morao Blanco", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Calle_%22Los_Lanceros%22_en_Puerto_Cabello.jpg" },
       { title: "Historisches Viertel von Ciudad Bolívar", author: "Venecon", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Ciudad_Bol%C3%ADvar_historical_zone.jpg" },
       { title: "Straße mit Kolonialhäusern in Coro, Bundesstaat Falcón — verkleinertes Bild; Anzeigeausschnitt", author: "Grégory David Escobar Fernández", license: "CC BY 2.0", href: "https://commons.wikimedia.org/wiki/File:Calle_en_Coro_2.JPG" },
-      { title: "Kathedrale von Barquisimeto", author: "Rodolfo Pimentel", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Catedral_de_Barquisimeto_d%C3%ADa_lluvioso.jpg" },
+      { title: "Kathedrale von Barquisimeto", author: "Rodolfo Pimentel", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Catedral_de_Barquisimeto_dia_lluvioso.jpg" },
       { title: "Luftaufnahme von Cumaná mit Gebäuden und karibischer Küste — verkleinertes Bild; Anzeigeausschnitt", author: "BID Ciudades Sostenibles", license: "CC BY 2.0", href: "https://commons.wikimedia.org/wiki/File:Cumana_sucre.jpg" },
       { title: "Plaza Cristóbal Mendoza in der Stadt Trujillo — verkleinertes Bild; Anzeigeausschnitt", author: "Rjcastillo", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Plaza_Cristobal_Mendoza.jpg" },
       { title: "Tanzende Teufel von Yare mit aufgesetzten Masken und vollständig sichtbaren roten Kostümen — verkleinertes Bild; Anzeigeausschnitt", author: "Josedrg08", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Danzantes_de_Yare.jpg" },
       { title: "Teilnehmende der Zaragozas von Sanare mit handgefertigten Masken und farbenfrohen Kostümen — verkleinertes Bild; für die Darstellung beschnitten", author: "Rodolfo Pimentel", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Zaragozas_original.jpg" },
-      { title: "Bajada de la Chinita, Maracaibo", author: "Mgta122001vzla", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Bajada_de_la_Chinita_en_Maracaibo_2023_01.jpg" },
+      { title: "Bajada de la Chinita, Maracaibo", author: "Mgta122001vzla", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Bajada_de_la_chinita_en_Maracaibo_-_2023_01.jpg" },
       { title: "Die Divina Pastora während der Prozession in Barquisimeto, umgeben von Blumen und Gläubigen — verkleinertes Bild; für die Darstellung beschnitten", author: "Rodolfo Pimentel", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:DIVINA_PASTORA_en_la_procesi%C3%B3n_los_feligreses_tom%C3%A1ndole_fotos.jpg" },
-{ title: "Zentralbibliothek, Universitätsstadt Caracas", author: "Jorge Andrés Paparoni Bruzual", license: "CC BY-SA 2.0", href: "https://commons.wikimedia.org/wiki/File:Biblioteca_Central_de_la_Ciudad_Universitaria_Caracas.jpg" },
+{ title: "Zentralbibliothek, Universitätsstadt Caracas", author: "Jorge Andrés Paparoni Bruzual", license: "CC BY-SA 2.0", href: "https://commons.wikimedia.org/wiki/File:Biblioteca_Central_de_la_Ciudad_Universitaria._Caracas..jpg" },
       { title: "Innenhof der Casa de las Ventanas de Hierro in Coro — verkleinertes Bild; Anzeigeausschnitt", author: "Janethrodri", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Patio_Casa_de_las_Ventanas_de_Hierro.jpg" },
       { title: "Fassade des Hauses des Kongresses von Angostura in Ciudad Bolívar — verkleinertes Bild; Anzeigeausschnitt", author: "LHommeDuMonde", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Casa_de_Angostura,_Ciudad_Bol%C3%ADvar..jpg" },
     ],
@@ -914,7 +914,7 @@ export const thematicDe: ThematicContent = {
       alt: "Frisch zubereitete venezolanische Arepas",
     },
     meta: {
-      title: "Aromen Venezuelas | Descubre Venezuela",
+      title: "Aromen Venezuelas | Mrs Venezuela",
       description:
         "Die venezolanische Küche in Bildern: Arepa, Pabellón, Cachapa und Hallaca, die Aromen jeder Region, Kakao, Süßspeisen, Zutaten und der Tisch im Dezember.",
     },

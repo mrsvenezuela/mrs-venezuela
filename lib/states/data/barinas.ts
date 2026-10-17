@@ -179,7 +179,7 @@ export const barinas: StateGuideData = {
   ],
 
   seo: {
-    title: "Barinas: guía de viaje de llanos, ríos andinos y tradición llanera",
+    title: "Barinas: guía de los llanos y la cultura llanera",
     description: "Guía editorial de Barinas: la Ciudad Marquesa, Barinitas y el piedemonte, la Sierra Nevada, el río Apure, el joropo y la cocina llanera. Lugares y consejos.",
   },
 

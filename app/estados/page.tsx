@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     canonical: "/estados",
   },
   openGraph: {
-    title: "Los 23 estados de Venezuela y el Distrito Capital | Descubre Venezuela",
+    title: "Los 23 estados de Venezuela y el Distrito Capital | Mrs Venezuela",
     description:
       "Guías de viaje de los 23 estados y el Distrito Capital, ordenadas por región: Andes, Occidente, Centro, Llanos, Oriente y Guayana.",
     url: "/estados",
@@ -42,13 +42,13 @@ export const metadata: Metadata = {
     locale: "es_VE",
     // `openGraph` se sustituye entero, no se fusiona: sin esto la página pierde
     // el siteName y la imagen que define el layout raíz.
-    siteName: "Descubre Venezuela",
+    siteName: "Mrs Venezuela",
     images: [
       {
         url: absoluteUrl("/images/opengraph-venezuela.jpg"),
         width: 1200,
         height: 630,
-        alt: "Paisaje de Venezuela para Descubre Venezuela",
+        alt: "Paisaje de Venezuela para Mrs Venezuela",
       },
     ],
   },

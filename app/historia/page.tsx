@@ -6,17 +6,25 @@ import { absoluteUrl } from "@/lib/utils";
 export const metadata: Metadata = {
   title: "Historia de Venezuela",
   description:
-    "La historia de Venezuela en una sola página: los pueblos originarios, la colonia, la independencia, Simón Bolívar, la nueva república, la era del petróleo, la migración, la democracia y la crisis, el país contemporáneo y la Venezuela de hoy.",
+    "La historia de Venezuela en una página: pueblos originarios, colonia, independencia, Simón Bolívar, petróleo, democracia, crisis y el país de hoy.",
   alternates: {
     canonical: "/historia",
   },
   openGraph: {
-    title: "Historia de Venezuela | Descubre Venezuela",
+    title: "Historia de Venezuela | Mrs Venezuela",
     description:
       "Un viaje por Venezuela a través del tiempo: de los pueblos que habitaban el territorio antes de 1498 a la gente que forma el país hoy.",
     url: "/historia",
     type: "website",
     locale: "es_VE",
+    images: [
+      {
+        url: absoluteUrl("/images/commons/casa-congreso-angostura.jpg"),
+        width: 1800,
+        height: 1350,
+        alt: "Fachada de la Casa del Congreso de Angostura, en Ciudad Bolívar",
+      },
+    ],
   },
 };
 

@@ -13,7 +13,7 @@ export const thematicZh: ThematicContent = {
       alt: "洛斯罗克斯群岛「水岛」的沙洲与碧绿海水",
     },
     meta: {
-      title: "委内瑞拉的加勒比与海滩 | Descubre Venezuela",
+      title: "委内瑞拉的加勒比与海滩 | Mrs Venezuela",
       description:
         "委内瑞拉的海岸与岛屿：洛斯罗克斯、玛格丽塔、莫罗科伊、莫奇马、乔罗尼、帕里亚、拉托尔图加与银岛，以及海岸线自西向东的变化。",
     },
@@ -234,7 +234,7 @@ export const thematicZh: ThematicContent = {
         title: "莫罗科伊国家公园",
         author: "Regisrob",
         license: "CC BY 3.0",
-        href: "https://commons.wikimedia.org/wiki/File:Morrocoy_sea_island.jpg",
+        href: "https://commons.wikimedia.org/wiki/File:Morrocoy_sea_island.JPG",
       },
       {
         title: "莫奇马国家公园银岛",
@@ -262,7 +262,7 @@ export const thematicZh: ThematicContent = {
       alt: "梅里达内华达山脉中的玻利瓦尔峰，委内瑞拉最高峰",
     },
     meta: {
-      title: "委内瑞拉的山地与高原 | Descubre Venezuela",
+      title: "委内瑞拉的山地与高原 | Mrs Venezuela",
       description:
         "委内瑞拉的安第斯山：梅里达、塔奇拉与特鲁希略，玻利瓦尔峰、内华达山脉、帕拉莫高原及其村庄与湖泊。",
     },
@@ -447,11 +447,11 @@ export const thematicZh: ThematicContent = {
         license: "CC BY-SA 3.0",
         href: "https://commons.wikimedia.org/wiki/File:Telef%C3%A9rico_del_Pico_Espejo.JPG",
       },
-      { title: "高寒草原的绒毛菊", author: "Adolfo (Ajerit)", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Paramo_1.jpg" },
-      { title: "拉库拉塔的群峰", author: "Arnaldo Noguera Sifontes", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Picos_en_La_Culata.jpg" },
-      { title: "洪堡峰北坡", author: "Massieljc", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Flanco_norte_del_Pico_Humboldt.jpg" },
-      { title: "阿帕塔德罗斯村", author: "Rjcastillo", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Vista_del_pueblo_de_Apartaderos.jpg" },
-      { title: "洛斯内瓦多斯的玻利瓦尔广场", author: "José Alfaro", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Plaza_Bolivar_de_Los_Nevados.jpg" },
+      { title: "高寒草原的绒毛菊", author: "Adolfo (Ajerit)", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:P%C3%A1ramo_1.jpg" },
+      { title: "拉库拉塔的群峰", author: "Arnaldo Noguera Sifontes", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Picos_en_la_culata.jpg" },
+      { title: "洪堡峰北坡", author: "Massieljc", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Flanco_Norte_del_Pico_Humboldt.jpg" },
+      { title: "阿帕塔德罗斯村", author: "Rjcastillo", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Vista_del_Pueblo_de_Apartaderos.jpg" },
+      { title: "洛斯内瓦多斯的玻利瓦尔广场", author: "José Alfaro", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Plaza_Bol%C3%ADvar_de_Los_Nevados.jpg" },
       { title: "梅里达安第斯的农田与村庄", author: "José Alfaro", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Siembra_y_pueblo.jpg" },
     ],
   },
@@ -468,7 +468,7 @@ export const thematicZh: ThematicContent = {
       position: "center 40%",
     },
     meta: {
-      title: "委内瑞拉的雨林与河流 | Descubre Venezuela",
+      title: "委内瑞拉的雨林与河流 | Mrs Venezuela",
       description:
         "奥里诺科河、委内瑞拉亚马孙、三角洲、圭亚那与卡奈马：大河、森林，以及生活其中的民族。",
     },
@@ -658,9 +658,9 @@ export const thematicZh: ThematicContent = {
       { title: "玻利瓦尔城历史城区", author: "Venecon", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Ciudad_Bol%C3%ADvar_historical_zone.jpg" },
       {
         title: "卡奈马的阿查瀑布与独木舟",
-        author: "Wilfredor",
-        license: "CC BY-SA 4.0",
-        href: "https://commons.wikimedia.org/wiki/File:Salto_Hacha_y_curiara_sector_occidental.jpg",
+        author: "Yosmary Lopez",
+        license: "CC BY-SA 3.0",
+        href: "https://commons.wikimedia.org/wiki/File:Salto_Hacha_y_Curiara_(Sector_Occidental).JPG",
       },
       {
         title: "大草原",
@@ -670,9 +670,9 @@ export const thematicZh: ThematicContent = {
       },
       {
         title: "大草原碧玉溪",
-        author: "Vinícius Pinheiro",
-        license: "CC BY-SA 4.0",
-        href: "https://commons.wikimedia.org/wiki/File:Gran_Sabana_Quebrada_de_Jaspe_I_(1).jpg",
+        author: "Paolo Costa Baldi",
+        license: "CC BY-SA 3.0",
+        href: "https://commons.wikimedia.org/wiki/File:Gran_Sabana_Quebrada_de_Jaspe_I_(1).JPG",
       },
       {
         title: "库克南桌山",
@@ -680,12 +680,12 @@ export const thematicZh: ThematicContent = {
         license: "CC BY-SA 3.0",
         href: "https://commons.wikimedia.org/wiki/File:Kukenan_tepuy.jpg",
       },
-      { title: "奥里诺科河全景", author: "Shishoxisrax", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_del_r%C3%ADo_Orinoco_en_Amazonas.jpg" },
+      { title: "奥里诺科河全景", author: "Shishoxisrax", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Panoramica_del_rio_orinoco_en_amazonas.JPG" },
       { title: "西帕波河，亚马孙州", author: "Fernando Flores", license: "CC BY-SA 2.0", href: "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Sipapo_-_Sipapo_River_(12917850754).jpg" },
       { title: "亚马孙的索罗溪", author: "Fernando Flores", license: "CC BY-SA 2.0", href: "https://commons.wikimedia.org/wiki/File:Ca%C3%B1o_Zorro_(15020517430).jpg" },
       { title: "奥里诺科三角洲", author: "Antolin Martinez A.", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Delta_del_Orinoco_110514-27.JPG" },
       { title: "卡罗尼河拉约维斯纳瀑布", author: "Daniel Méndez", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:La_Llovizna_1.jpg" },
-      { title: "白喉巨嘴鸟", author: "Fernando Flores", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Piapoco_de_garganta_blanca_(Ramphastos_tucanus_cuvieri).jpg" },
+      { title: "白喉巨嘴鸟", author: "Fernando Flores", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Piapoco_de_Garganta_Blanca_(Ramphastos_tucanus_cuvieri).jpg" },
     ],
   },
 
@@ -700,7 +700,7 @@ export const thematicZh: ThematicContent = {
       alt: "阿维拉山脚下的加拉加斯",
     },
     meta: {
-      title: "委内瑞拉的城市与文化 | Descubre Venezuela",
+      title: "委内瑞拉的城市与文化 | Mrs Venezuela",
       description:
         "加拉加斯、马拉开波、巴基西梅托、科罗与卡贝略港；解释委内瑞拉的遗产、音乐、节庆与手工艺。",
     },
@@ -902,14 +902,14 @@ export const thematicZh: ThematicContent = {
       { title: "卡贝略港历史街区的洛斯兰塞罗斯街 — 图片已缩放；展示时裁切", author: "Jesus Enrique Morao Blanco", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Calle_%22Los_Lanceros%22_en_Puerto_Cabello.jpg" },
       { title: "玻利瓦尔城历史城区", author: "Venecon", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Ciudad_Bol%C3%ADvar_historical_zone.jpg" },
       { title: "法尔孔州科罗两旁排列着殖民时期房屋的街道 — 图片已缩放；展示时裁切", author: "Grégory David Escobar Fernández", license: "CC BY 2.0", href: "https://commons.wikimedia.org/wiki/File:Calle_en_Coro_2.JPG" },
-      { title: "巴基西梅托主教座堂", author: "Rodolfo Pimentel", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Catedral_de_Barquisimeto_d%C3%ADa_lluvioso.jpg" },
+      { title: "巴基西梅托主教座堂", author: "Rodolfo Pimentel", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Catedral_de_Barquisimeto_dia_lluvioso.jpg" },
       { title: "库马纳城市建筑与加勒比海岸的航拍景观 — 图片已缩放；展示时裁切", author: "BID Ciudades Sostenibles", license: "CC BY 2.0", href: "https://commons.wikimedia.org/wiki/File:Cumana_sucre.jpg" },
       { title: "特鲁希略市的克里斯托瓦尔·门多萨广场 — 图片已缩放；展示时裁切", author: "Rjcastillo", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Plaza_Cristobal_Mendoza.jpg" },
       { title: "Yare的舞蹈恶魔戴着面具，全身红色服装清晰可见 — 图片已缩放；展示时裁切", author: "Josedrg08", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Danzantes_de_Yare.jpg" },
       { title: "Sanare的Zaragozas庆典参与者戴着手工面具、身着缤纷服装 — 图片已缩小；展示时裁切", author: "Rodolfo Pimentel", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Zaragozas_original.jpg" },
-      { title: "马拉开波奇尼塔圣母巡游", author: "Mgta122001vzla", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Bajada_de_la_Chinita_en_Maracaibo_2023_01.jpg" },
+      { title: "马拉开波奇尼塔圣母巡游", author: "Mgta122001vzla", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Bajada_de_la_chinita_en_Maracaibo_-_2023_01.jpg" },
       { title: "巴基西梅托巡游中的神圣牧女圣像，周围是鲜花与信众 — 图片已缩小；展示时裁切", author: "Rodolfo Pimentel", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:DIVINA_PASTORA_en_la_procesi%C3%B3n_los_feligreses_tom%C3%A1ndole_fotos.jpg" },
-{ title: "加拉加斯大学城中央图书馆", author: "Jorge Andrés Paparoni Bruzual", license: "CC BY-SA 2.0", href: "https://commons.wikimedia.org/wiki/File:Biblioteca_Central_de_la_Ciudad_Universitaria_Caracas.jpg" },
+{ title: "加拉加斯大学城中央图书馆", author: "Jorge Andrés Paparoni Bruzual", license: "CC BY-SA 2.0", href: "https://commons.wikimedia.org/wiki/File:Biblioteca_Central_de_la_Ciudad_Universitaria._Caracas..jpg" },
       { title: "科罗铁窗之家的内庭 — 图片已缩放；展示时裁切", author: "Janethrodri", license: "CC BY-SA 4.0", href: "https://commons.wikimedia.org/wiki/File:Patio_Casa_de_las_Ventanas_de_Hierro.jpg" },
       { title: "玻利瓦尔城安戈斯图拉议会旧址的立面 — 图片已缩放；展示时裁切", author: "LHommeDuMonde", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Casa_de_Angostura,_Ciudad_Bol%C3%ADvar..jpg" },
     ],
@@ -926,7 +926,7 @@ export const thematicZh: ThematicContent = {
       alt: "刚做好的委内瑞拉玉米饼 arepa",
     },
     meta: {
-      title: "委内瑞拉的风味 | Descubre Venezuela",
+      title: "委内瑞拉的风味 | Mrs Venezuela",
       description:
         "用照片认识委内瑞拉菜：arepa、pabellón、cachapa 与 hallaca，各地区的风味，可可、甜点、食材，以及十二月的餐桌。",
     },

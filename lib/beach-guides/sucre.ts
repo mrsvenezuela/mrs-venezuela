@@ -23,7 +23,7 @@ export const mochima: BeachGuide = {
     {title:t('¿Todas las visitas necesitan lancha?','Does every visit need a boat?','Braucht jeder Besuch ein Boot?','Faut-il toujours prendre un bateau ?'),text:t('No. Hay playas continentales y recorridos insulares. Depende del lugar que elijas.','No. There are mainland beaches and island routes. It depends on your destination.','Nein. Es gibt Festlandstrände und Inselrouten. Es hängt vom gewählten Ziel ab.','Non. Il existe des plages continentales et des itinéraires insulaires. Cela dépend du lieu choisi.')},
     {title:t('¿Se pueden ver delfines?','Can I see dolphins?','Kann man Delfine sehen?','Peut-on voir des dauphins ?'),text:t('Habitan estas aguas, pero son animales silvestres. No reserves una salida contando con un avistamiento asegurado.','They inhabit these waters, but are wild animals. Do not book expecting a guaranteed sighting.','Sie leben in diesen Gewässern, sind aber Wildtiere. Nicht mit einer garantierten Sichtung buchen.','Ils vivent dans ces eaux, mais restent sauvages. Ne réservez pas en comptant sur une observation garantie.')},
   ],
-  sources:[{name:'Inparques · Parque Nacional Mochima',href:'https://inparques.gob.ve/Parques%20Nacionales/mochima.html'},{name:'Inparques · aniversario de Mochima',href:'https://www.inparques.gob.ve/cms/main/verCalendarioV/2357'}],
+  sources:[{name:'Inparques · Parque Nacional Mochima',href:'https://inparques.gob.ve/Parques%20Nacionales/mochima.html'},{name:'Inparques · aniversario de Mochima'}],
 };
 
 export const playaMedina: BeachGuide = {

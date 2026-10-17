@@ -187,7 +187,7 @@ export const tachira: StateGuideData = {
   ],
 
   seo: {
-    title: "Táchira: guía de viaje de San Cristóbal, los páramos y la frontera",
+    title: "Táchira: guía de San Cristóbal y los páramos",
     description: "Guía editorial del Táchira: San Cristóbal, La Grita, Peribeca, los páramos de El Tamá, la Feria de San Sebastián, la Vuelta al Táchira y la cocina andina.",
   },
 

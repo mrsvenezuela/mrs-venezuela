@@ -182,7 +182,7 @@ export const apure: StateGuideData = {
   ],
 
   seo: {
-    title: "Apure: guía de viaje de la sabana, los ríos, los hatos y el joropo",
+    title: "Apure: guía de la sabana, los hatos y el joropo",
     description: "Guía editorial de Apure: San Fernando, Elorza, Achaguas, el Parque Nacional Santos Luzardo, los hatos, el caimán del Orinoco y el joropo llanero.",
   },
 

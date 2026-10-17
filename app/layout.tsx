@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     template: "%s | Mrs Venezuela",
   },
   description:
-    "Explora Venezuela con una experiencia visual premium: estados, playas, parques nacionales, montanas, fauna, gastronomia, historia y cultura.",
+    "Explora Venezuela con una experiencia visual premium: estados, playas, parques nacionales, montañas, fauna, gastronomía, historia y cultura.",
   /*
    * Aquí NO va `alternates.canonical` ni `openGraph.url`: en Next.js los objetos de
    * metadata se fusionan de forma superficial, así que un valor puesto aquí lo hereda
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     siteName: "Mrs Venezuela",
     title: "Mrs Venezuela",
     description:
-      "La plataforma inmersiva para descubrir la belleza natural, cultural e historica de Venezuela.",
+      "La plataforma inmersiva para descubrir la belleza natural, cultural e histórica de Venezuela.",
     images: [
       {
         url: absoluteUrl("/images/opengraph-venezuela.jpg"),

@@ -98,7 +98,7 @@ export function GuideToc({
 
     if (navigator.share) {
       try {
-        await navigator.share({ title: `${stateName} | Descubre Venezuela`, url });
+        await navigator.share({ title: `${stateName} | Mrs Venezuela`, url });
         return;
       } catch {
         // El usuario canceló: no hay nada que hacer.

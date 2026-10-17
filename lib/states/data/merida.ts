@@ -204,7 +204,7 @@ export const merida: StateGuideData = {
   ],
 
   seo: {
-    title: "Mérida: guía de viaje de los Andes, el páramo y el Mukumbarí",
+    title: "Mérida: guía de los Andes, el páramo y Mukumbarí",
     description: "Guía editorial de Mérida: la Sierra Nevada, el Mukumbarí, el páramo, Jají, Los Nevados y la ciudad universitaria. Historia, naturaleza, sabores y consejos.",
   },
 

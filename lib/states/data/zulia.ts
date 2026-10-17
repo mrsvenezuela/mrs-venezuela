@@ -188,7 +188,7 @@ export const zulia: StateGuideData = {
   ],
 
   seo: {
-    title: "Zulia: guía de viaje del Lago de Maracaibo, el Catatumbo y la gaita",
+    title: "Zulia: guía del Lago de Maracaibo y el Catatumbo",
     description: "Guía editorial de Zulia: Maracaibo, el Lago, el Relámpago del Catatumbo, la gaita y la cocina zuliana. Historia, lugares, naturaleza y consejos de viaje.",
   },
 

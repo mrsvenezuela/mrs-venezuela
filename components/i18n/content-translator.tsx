@@ -15,7 +15,7 @@ const manual: Catalog = {
   "Venezuela": { en: "Venezuela", de: "Venezuela", fr: "Venezuela", zh: "Venezuela" },
   "Canaima": { en: "Canaima", de: "Canaima", fr: "Canaima", zh: "Canaima" },
   "Los Roques": { en: "Los Roques", de: "Los Roques", fr: "Los Roques", zh: "Los Roques" },
-  "Sharing Venezuela with the world.": { en: "Sharing Venezuela with the world.", de: "Sharing Venezuela with the world.", fr: "Sharing Venezuela with the world.", zh: "Sharing Venezuela with the world." },
+  "Compartiendo Venezuela con el mundo.": { en: "Sharing Venezuela with the world.", de: "Venezuela mit der Welt teilen.", fr: "Partager le Venezuela avec le monde.", zh: "与世界分享委内瑞拉。" },
   /*
    * El diccionario de lib/i18n.ts ya devuelve la palabra traducida, y después este
    * traductor vuelve a pasar por encima. Si la palabra ya traducida existe como clave

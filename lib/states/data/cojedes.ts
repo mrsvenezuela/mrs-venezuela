@@ -186,7 +186,7 @@ export const cojedes: StateGuideData = {
   ],
 
   seo: {
-    title: "Cojedes: guía de viaje de San Carlos, los hatos y el llano central",
+    title: "Cojedes: guía de San Carlos, los hatos y el llano",
     description: "Guía editorial de Cojedes: San Carlos, Tinaquillo y sus diablos, el Parque Nacional Tirgua, El Baúl y los hatos del sur. Historia, naturaleza y consejos.",
   },
 

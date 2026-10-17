@@ -35,7 +35,7 @@ export function CanaimaExperienceCard({
         />
       ) : (
         <div className="relative aspect-[16/10] bg-[#e9eee9]">
-          <Image src={image} alt={alt} fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" unoptimized />
+          <Image src={image} alt={alt} fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" unoptimized={image.startsWith("http")} />
         </div>
       )}
 

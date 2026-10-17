@@ -186,7 +186,7 @@ export const trujillo: StateGuideData = {
   credits: [{ title: "Vista de la ciudad de Trujillo", author: "Rjcastillo", license: "CC BY-SA 3.0", href: "https://commons.wikimedia.org/wiki/File:Vista_de_la_ciudad_de_Trujillo.jpg" }],
 
   seo: {
-    title: "Trujillo: guía de viaje de la Virgen de la Paz, Boconó y los páramos",
+    title: "Trujillo: guía de la Virgen de la Paz y Boconó",
     description: "Guía editorial de Trujillo: Monumento a la Virgen de la Paz, Valera, Boconó y su café, La Puerta, Isnotú y los páramos andinos. Historia, naturaleza y consejos.",
   },
 

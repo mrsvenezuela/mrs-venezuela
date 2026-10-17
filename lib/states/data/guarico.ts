@@ -189,7 +189,7 @@ export const guarico: StateGuideData = {
   ],
 
   seo: {
-    title: "Guárico: guía de viaje de los Morros de San Juan, el llano y Calabozo",
+    title: "Guárico: guía de los Morros, el llano y Calabozo",
     description: "Guía editorial de Guárico: los Morros de San Juan, las aguas termales, Calabozo y su embalse, el Parque Nacional Aguaro-Guariquito, Ortiz y el joropo.",
   },
 

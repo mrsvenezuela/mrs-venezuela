@@ -192,7 +192,7 @@ export const anzoategui: StateGuideData = {
   ],
 
   seo: {
-    title: "Anzoátegui: guía de viaje de Mochima, Barcelona y la Mesa de Guanipa",
+    title: "Anzoátegui: guía de Mochima, Barcelona y Guanipa",
     description: "Guía editorial de Anzoátegui: Puerto La Cruz, Lechería, las islas de Mochima, Barcelona colonial y la sabana kariña de la Mesa de Guanipa. Historia y consejos.",
   },
 
