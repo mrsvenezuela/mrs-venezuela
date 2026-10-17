@@ -106,7 +106,7 @@ function LandmarkImage({ slides }: { slides: LandmarkSlide[] }) {
               loading={activeSlide === 0 ? "eager" : "lazy"}
               sizes="(max-width: 1024px) 100vw, 50vw"
               className="object-cover transition duration-500 ease-out group-hover:scale-[1.02]"
-              unoptimized
+              unoptimized={slide.image.startsWith("http")}
             />
           </motion.div>
         </AnimatePresence>
